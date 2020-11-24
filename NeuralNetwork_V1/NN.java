@@ -4,10 +4,10 @@ package NN;
 /**
  * 
  * @author Ian Gluesing
- *	First attempt at creating a Neural Network without using any libraries
- *	This initial attempt only uses one sample
+ * First attempt at creating a Neural Network without using any libraries
+ * This initial attempt only uses one sample
  *
- *	This program works for just this sample.
+ * This program works for just this sample.
  */
 
 public class NN {
@@ -16,8 +16,8 @@ public class NN {
 		
 		//Input for the neural network, there is no bias anywhere in this version
 		double[] inputLayer = {1,
-							   1,
-							   1};
+					1,
+					1};
 		
 		//There are the vector that will store the outputs from each layer
 		//In this version there are two hidden layers, and one output layer
@@ -29,20 +29,20 @@ public class NN {
 		// In order to get the first part of the hidden layer we will do transpose(W1) * inputLayer.
 		// So for this W and all of the others, it is in the form of W, not W transpose
 		double[][] W1 = {{.1,.1,.1,.1},
-				  		{.1,.1,.1,.1},
-				  		{.1,.1,.1,.1}};
+				  {.1,.1,.1,.1},
+				  {.1,.1,.1,.1}};
 		
 		//This W is a 4x3 matrix, so to get the output for the second hidden layer, we will have to do
 		// W transpose time hidden layer one.
 		double[][] W2 = {{2,2,2},
-						{2,2,2},
-						{2,2,2},
-						{2,2,2}};
+				{2,2,2},
+				{2,2,2},
+				{2,2,2}};
 		
 		//Similar explanation for this matrix as well
 		double[][] W3 = {{1,1},
-						  {1,1},
-						  {1,1}};
+				  {1,1},
+				  {1,1}};
 		
 		
 		//Get initial predictions using the given weights at each layer
@@ -53,7 +53,7 @@ public class NN {
 		
 		//For this sample, lets assume its output should be [0,1]
 		int[] y = {0,
-				   1};		
+			   1};		
 		
 		//This loop will perform gradient descent on each W matrix ten times
 		for(int i = 0; i < 10; i++) {
@@ -166,7 +166,7 @@ public class NN {
 	}
 	
 	/**
-	 * 	Determine the loss at the given layer
+	 * Determine the loss at the given layer
 	 * 
 	 * @param x
 	 * @param W
