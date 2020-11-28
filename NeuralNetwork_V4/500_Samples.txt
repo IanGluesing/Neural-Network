@@ -1,0 +1,5978 @@
+Epoch: 1
+Ave squared error: 8.994139099546276
+Epoch: 2
+Ave squared error: 0.9999999999999992
+Epoch: 3
+Ave squared error: 0.9999999999995753
+Epoch: 4
+Ave squared error: 0.9999999998340621
+Epoch: 5
+Ave squared error: 0.9999999693030129
+Epoch: 6
+Ave squared error: 0.9999960445461922
+Epoch: 7
+Ave squared error: 0.9997423541349338
+Epoch: 8
+Ave squared error: 0.9848789382103812
+Epoch: 9
+Ave squared error: 1.1311288879749368
+Epoch: 10
+Ave squared error: 0.9773525114988605
+Epoch: 11
+Ave squared error: 1.0330524148369877
+Epoch: 12
+Ave squared error: 1.1481259340521441
+Epoch: 13
+Ave squared error: 1.050181938743505
+Epoch: 14
+Ave squared error: 0.9970468017465723
+Epoch: 15
+Ave squared error: 1.0130487309802556
+Epoch: 16
+Ave squared error: 1.0070995103812184
+Epoch: 17
+Ave squared error: 1.0126890960871233
+Epoch: 18
+Ave squared error: 1.0331940673294313
+Epoch: 19
+Ave squared error: 0.9710835936811457
+Epoch: 20
+Ave squared error: 1.1004260064950984
+Epoch: 21
+Ave squared error: 1.03153549802297
+Epoch: 22
+Ave squared error: 0.9906168996666538
+Epoch: 23
+Ave squared error: 1.0510553179696602
+Epoch: 24
+Ave squared error: 0.9987479400408671
+Epoch: 25
+Ave squared error: 0.9835720530263364
+Epoch: 26
+Ave squared error: 1.0203803733787864
+Epoch: 27
+Ave squared error: 0.9886948399208394
+Epoch: 28
+Ave squared error: 1.0264194480898032
+Epoch: 29
+Ave squared error: 0.978756750538815
+Epoch: 30
+Ave squared error: 0.9430436822740282
+Epoch: 31
+Ave squared error: 0.9449320194464577
+Epoch: 32
+Ave squared error: 0.9523357135397946
+Epoch: 33
+Ave squared error: 0.9797586267320207
+Epoch: 34
+Ave squared error: 0.9631343581308529
+Epoch: 35
+Ave squared error: 0.9396129468966159
+Epoch: 36
+Ave squared error: 0.9398358412097891
+Epoch: 37
+Ave squared error: 0.9470238923878779
+Epoch: 38
+Ave squared error: 0.9480405225171118
+Epoch: 39
+Ave squared error: 0.9483154852957474
+Epoch: 40
+Ave squared error: 0.9493369786669316
+Epoch: 41
+Ave squared error: 0.9524008095908183
+Epoch: 42
+Ave squared error: 0.9552907581267405
+Epoch: 43
+Ave squared error: 0.952577266864921
+Epoch: 44
+Ave squared error: 0.9497196171689029
+Epoch: 45
+Ave squared error: 0.9501010196184339
+Epoch: 46
+Ave squared error: 0.9516882192450209
+Epoch: 47
+Ave squared error: 0.9510072547976316
+Epoch: 48
+Ave squared error: 0.9497622618482089
+Epoch: 49
+Ave squared error: 0.9494881353223614
+Epoch: 50
+Ave squared error: 0.9502793672629203
+Epoch: 51
+Ave squared error: 0.94994481729344
+Epoch: 52
+Ave squared error: 0.9493590657026264
+Epoch: 53
+Ave squared error: 0.94906472220842
+Epoch: 54
+Ave squared error: 0.9494095728894999
+Epoch: 55
+Ave squared error: 0.9491175168789198
+Epoch: 56
+Ave squared error: 0.9488461680365627
+Epoch: 57
+Ave squared error: 0.9485861868045102
+Epoch: 58
+Ave squared error: 0.9486829327390635
+Epoch: 59
+Ave squared error: 0.9484044805919144
+Epoch: 60
+Ave squared error: 0.9482379296968435
+Epoch: 61
+Ave squared error: 0.9479822404425856
+Epoch: 62
+Ave squared error: 0.9479190163753868
+Epoch: 63
+Ave squared error: 0.9476307462478385
+Epoch: 64
+Ave squared error: 0.9474337928045653
+Epoch: 65
+Ave squared error: 0.9471304683473551
+Epoch: 66
+Ave squared error: 0.9469054441998409
+Epoch: 67
+Ave squared error: 0.946533036587647
+Epoch: 68
+Ave squared error: 0.9461782722138232
+Epoch: 69
+Ave squared error: 0.9457069093982342
+Epoch: 70
+Ave squared error: 0.9452071582247227
+Epoch: 71
+Ave squared error: 0.9445506417786335
+Epoch: 72
+Ave squared error: 0.9438077424734647
+Epoch: 73
+Ave squared error: 0.9428601957797145
+Epoch: 74
+Ave squared error: 0.9417798180012579
+Epoch: 75
+Ave squared error: 0.9404264291563387
+Epoch: 76
+Ave squared error: 0.9389492277442341
+Epoch: 77
+Ave squared error: 0.9372380919048926
+Epoch: 78
+Ave squared error: 0.9354932337888708
+Epoch: 79
+Ave squared error: 0.9338200123353138
+Epoch: 80
+Ave squared error: 0.9321121601151948
+Epoch: 81
+Ave squared error: 0.9309164995527044
+Epoch: 82
+Ave squared error: 0.9294950757057653
+Epoch: 83
+Ave squared error: 0.9288248528738915
+Epoch: 84
+Ave squared error: 0.9277213466811568
+Epoch: 85
+Ave squared error: 0.9274257247208011
+Epoch: 86
+Ave squared error: 0.9265496735201217
+Epoch: 87
+Ave squared error: 0.9264911867682062
+Epoch: 88
+Ave squared error: 0.9257510110080879
+Epoch: 89
+Ave squared error: 0.9258435594571561
+Epoch: 90
+Ave squared error: 0.9251772406085909
+Epoch: 91
+Ave squared error: 0.9253726418734834
+Epoch: 92
+Ave squared error: 0.9247422088066478
+Epoch: 93
+Ave squared error: 0.9250144646029607
+Epoch: 94
+Ave squared error: 0.9243966745453939
+Epoch: 95
+Ave squared error: 0.9247317828948102
+Epoch: 96
+Ave squared error: 0.9241117621033318
+Epoch: 97
+Ave squared error: 0.9245020933953345
+Epoch: 98
+Ave squared error: 0.9238697064356118
+Epoch: 99
+Ave squared error: 0.9243110965137542
+Epoch: 100
+Ave squared error: 0.9236589613194187
+Epoch: 101
+Ave squared error: 0.9241492311653425
+Epoch: 102
+Ave squared error: 0.9234716195965292
+Epoch: 103
+Ave squared error: 0.9240098062601015
+Epoch: 104
+Ave squared error: 0.9233020097973359
+Epoch: 105
+Ave squared error: 0.923887950927251
+Epoch: 106
+Ave squared error: 0.9231458948994212
+Epoch: 107
+Ave squared error: 0.9237799945418452
+Epoch: 108
+Ave squared error: 0.9229999898602221
+Epoch: 109
+Ave squared error: 0.9236830817936494
+Epoch: 110
+Ave squared error: 0.9228616557005095
+Epoch: 111
+Ave squared error: 0.9235949220193351
+Epoch: 112
+Ave squared error: 0.9227286957105049
+Epoch: 113
+Ave squared error: 0.9235136180677395
+Epoch: 114
+Ave squared error: 0.9225992126956569
+Epoch: 115
+Ave squared error: 0.9234375433417094
+Epoch: 116
+Ave squared error: 0.9224715032630928
+Epoch: 117
+Ave squared error: 0.9233652480360574
+Epoch: 118
+Ave squared error: 0.9223439742763662
+Epoch: 119
+Ave squared error: 0.9232953823606201
+Epoch: 120
+Ave squared error: 0.9222150716022568
+Epoch: 121
+Ave squared error: 0.9232266282376562
+Epoch: 122
+Ave squared error: 0.9220832139444067
+Epoch: 123
+Ave squared error: 0.9231576328060516
+Epoch: 124
+Ave squared error: 0.9219467257621772
+Epoch: 125
+Ave squared error: 0.9230869376000336
+Epoch: 126
+Ave squared error: 0.9218037633810037
+Epoch: 127
+Ave squared error: 0.9230128966561048
+Epoch: 128
+Ave squared error: 0.9216522274902337
+Epoch: 129
+Ave squared error: 0.922933574887301
+Epoch: 130
+Ave squared error: 0.9214896531496328
+Epoch: 131
+Ave squared error: 0.9228466143504113
+Epoch: 132
+Ave squared error: 0.921313064856645
+Epoch: 133
+Ave squared error: 0.9227490495478028
+Epoch: 134
+Ave squared error: 0.9211187788023643
+Epoch: 135
+Ave squared error: 0.9226370420536956
+Epoch: 136
+Ave squared error: 0.9209021275080136
+Epoch: 137
+Ave squared error: 0.9225054875217
+Epoch: 138
+Ave squared error: 0.9206570776886316
+Epoch: 139
+Ave squared error: 0.9223474245923835
+Epoch: 140
+Ave squared error: 0.9203757303394335
+Epoch: 141
+Ave squared error: 0.9221531614511344
+Epoch: 142
+Ave squared error: 0.9200478158721628
+Epoch: 143
+Ave squared error: 0.9219091323264946
+Epoch: 144
+Ave squared error: 0.9196608658776433
+Epoch: 145
+Ave squared error: 0.9215972256627266
+Epoch: 146
+Ave squared error: 0.91920416309925
+Epoch: 147
+Ave squared error: 0.9211993769112993
+Epoch: 148
+Ave squared error: 0.9186897495648251
+Epoch: 149
+Ave squared error: 0.9207338791408043
+Epoch: 150
+Ave squared error: 0.9182444913904275
+Epoch: 151
+Ave squared error: 0.9204617854908035
+Epoch: 152
+Ave squared error: 0.9184361916814717
+Epoch: 153
+Ave squared error: 0.9217507375606276
+Epoch: 154
+Ave squared error: 0.9205893461210221
+Epoch: 155
+Ave squared error: 0.9261736491807974
+Epoch: 156
+Ave squared error: 0.9234973926736945
+Epoch: 157
+Ave squared error: 0.924548516337959
+Epoch: 158
+Ave squared error: 0.922467614260716
+Epoch: 159
+Ave squared error: 0.9229536788757976
+Epoch: 160
+Ave squared error: 0.9216253429178537
+Epoch: 161
+Ave squared error: 0.9218251798078423
+Epoch: 162
+Ave squared error: 0.920475673518572
+Epoch: 163
+Ave squared error: 0.9205779742252832
+Epoch: 164
+Ave squared error: 0.919397114273952
+Epoch: 165
+Ave squared error: 0.9196701916887312
+Epoch: 166
+Ave squared error: 0.918582526171366
+Epoch: 167
+Ave squared error: 0.9190250533271572
+Epoch: 168
+Ave squared error: 0.9179871170460203
+Epoch: 169
+Ave squared error: 0.9185353800832681
+Epoch: 170
+Ave squared error: 0.9174692084540403
+Epoch: 171
+Ave squared error: 0.9179424883504065
+Epoch: 172
+Ave squared error: 0.9167696388637308
+Epoch: 173
+Ave squared error: 0.9170156056174078
+Epoch: 174
+Ave squared error: 0.9157532187607973
+Epoch: 175
+Ave squared error: 0.9158756938513049
+Epoch: 176
+Ave squared error: 0.9145825302586538
+Epoch: 177
+Ave squared error: 0.9147832699055479
+Epoch: 178
+Ave squared error: 0.9134717185871735
+Epoch: 179
+Ave squared error: 0.9138607578557203
+Epoch: 180
+Ave squared error: 0.9125033669700858
+Epoch: 181
+Ave squared error: 0.9131056102909886
+Epoch: 182
+Ave squared error: 0.9116684493057465
+Epoch: 183
+Ave squared error: 0.912473359758367
+Epoch: 184
+Ave squared error: 0.9109331383206258
+Epoch: 185
+Ave squared error: 0.9119263182639133
+Epoch: 186
+Ave squared error: 0.9102717470252292
+Epoch: 187
+Ave squared error: 0.9114471844579729
+Epoch: 188
+Ave squared error: 0.9096731602432625
+Epoch: 189
+Ave squared error: 0.9110327810699552
+Epoch: 190
+Ave squared error: 0.9091351583329168
+Epoch: 191
+Ave squared error: 0.9106842526365988
+Epoch: 192
+Ave squared error: 0.9086579161093103
+Epoch: 193
+Ave squared error: 0.9104019901023293
+Epoch: 194
+Ave squared error: 0.9082408175777703
+Epoch: 195
+Ave squared error: 0.9101847242525175
+Epoch: 196
+Ave squared error: 0.9078815497472297
+Epoch: 197
+Ave squared error: 0.9100296203340793
+Epoch: 198
+Ave squared error: 0.9075755917061891
+Epoch: 199
+Ave squared error: 0.909931802233715
+Epoch: 200
+Ave squared error: 0.9073155384189354
+Epoch: 201
+Ave squared error: 0.9098836429015799
+Epoch: 202
+Ave squared error: 0.9070908180826308
+Epoch: 203
+Ave squared error: 0.9098747385479471
+Epoch: 204
+Ave squared error: 0.9068884533861347
+Epoch: 205
+Ave squared error: 0.9098929928530247
+Epoch: 206
+Ave squared error: 0.9066948601130068
+Epoch: 207
+Ave squared error: 0.9099264655886072
+Epoch: 208
+Ave squared error: 0.9064979566139236
+Epoch: 209
+Ave squared error: 0.9099651824660148
+Epoch: 210
+Ave squared error: 0.9062886828934731
+Epoch: 211
+Ave squared error: 0.9100022101715477
+Epoch: 212
+Ave squared error: 0.9060614890095365
+Epoch: 213
+Ave squared error: 0.9100338080806077
+Epoch: 214
+Ave squared error: 0.9058139680195835
+Epoch: 215
+Ave squared error: 0.9100589339035154
+Epoch: 216
+Ave squared error: 0.905546088626775
+Epoch: 217
+Ave squared error: 0.9100785110934679
+Epoch: 218
+Ave squared error: 0.9052593935483692
+Epoch: 219
+Ave squared error: 0.9100947305465544
+Epoch: 220
+Ave squared error: 0.9049563263480722
+Epoch: 221
+Ave squared error: 0.9101104790452004
+Epoch: 222
+Ave squared error: 0.9046397124834815
+Epoch: 223
+Ave squared error: 0.9101288852952949
+Epoch: 224
+Ave squared error: 0.9043123687270966
+Epoch: 225
+Ave squared error: 0.910152949910137
+Epoch: 226
+Ave squared error: 0.9039768080250853
+Epoch: 227
+Ave squared error: 0.9101852372467365
+Epoch: 228
+Ave squared error: 0.9036350160960436
+Epoch: 229
+Ave squared error: 0.9102276264240695
+Epoch: 230
+Ave squared error: 0.9032882915827777
+Epoch: 231
+Ave squared error: 0.9102811353777385
+Epoch: 232
+Ave squared error: 0.9029371579576434
+Epoch: 233
+Ave squared error: 0.9103458418077645
+Epoch: 234
+Ave squared error: 0.9025813659946718
+Epoch: 235
+Ave squared error: 0.9104209246546582
+Epoch: 236
+Ave squared error: 0.9022200034090755
+Epoch: 237
+Ave squared error: 0.9105048345718599
+Epoch: 238
+Ave squared error: 0.9018517092425896
+Epoch: 239
+Ave squared error: 0.9105955708284945
+Epoch: 240
+Ave squared error: 0.9014749586882776
+Epoch: 241
+Ave squared error: 0.9106910048918435
+Epoch: 242
+Ave squared error: 0.9010883542908519
+Epoch: 243
+Ave squared error: 0.9107891686338679
+Epoch: 244
+Ave squared error: 0.9006908527805412
+Epoch: 245
+Ave squared error: 0.910888437763179
+Epoch: 246
+Ave squared error: 0.9002818844830747
+Epoch: 247
+Ave squared error: 0.9109875880996057
+Epoch: 248
+Ave squared error: 0.8998613702868976
+Epoch: 249
+Ave squared error: 0.9110857546317513
+Epoch: 250
+Ave squared error: 0.899429674144204
+Epoch: 251
+Ave squared error: 0.9111823432123141
+Epoch: 252
+Ave squared error: 0.8989875206485038
+Epoch: 253
+Ave squared error: 0.9112769218108866
+Epoch: 254
+Ave squared error: 0.8985358722599602
+Epoch: 255
+Ave squared error: 0.9113690850326924
+Epoch: 256
+Ave squared error: 0.8980757485194131
+Epoch: 257
+Ave squared error: 0.9114582880793545
+Epoch: 258
+Ave squared error: 0.8976080108719089
+Epoch: 259
+Ave squared error: 0.911543691916019
+Epoch: 260
+Ave squared error: 0.8971331994123231
+Epoch: 261
+Ave squared error: 0.9116241031236209
+Epoch: 262
+Ave squared error: 0.8966515215449798
+Epoch: 263
+Ave squared error: 0.9116980741084498
+Epoch: 264
+Ave squared error: 0.8961630240419726
+Epoch: 265
+Ave squared error: 0.9117641493347967
+Epoch: 266
+Ave squared error: 0.8956678744535027
+Epoch: 267
+Ave squared error: 0.9118211587091534
+Epoch: 268
+Ave squared error: 0.8951666178022103
+Epoch: 269
+Ave squared error: 0.911868435835282
+Epoch: 270
+Ave squared error: 0.8946603005041994
+Epoch: 271
+Ave squared error: 0.9119058862383704
+Epoch: 272
+Ave squared error: 0.8941504365526127
+Epoch: 273
+Ave squared error: 0.9119339141016143
+Epoch: 274
+Ave squared error: 0.8936388607285269
+Epoch: 275
+Ave squared error: 0.9119532570384948
+Epoch: 276
+Ave squared error: 0.8931275518473385
+Epoch: 277
+Ave squared error: 0.9119648302203215
+Epoch: 278
+Ave squared error: 0.8926184558635176
+Epoch: 279
+Ave squared error: 0.9119695278293785
+Epoch: 280
+Ave squared error: 0.89211342996126
+Epoch: 281
+Ave squared error: 0.9119683144202405
+Epoch: 282
+Ave squared error: 0.8916139954174944
+Epoch: 283
+Ave squared error: 0.9119615808976034
+Epoch: 284
+Ave squared error: 0.8911219524615499
+Epoch: 285
+Ave squared error: 0.9119511197125701
+Epoch: 286
+Ave squared error: 0.8906371728136694
+Epoch: 287
+Ave squared error: 0.911933426202355
+Epoch: 288
+Ave squared error: 0.8901653861468655
+Epoch: 289
+Ave squared error: 0.9119226481923571
+Epoch: 290
+Ave squared error: 0.8896905496436195
+Epoch: 291
+Ave squared error: 0.9118711575468836
+Epoch: 292
+Ave squared error: 0.8892744445587015
+Epoch: 293
+Ave squared error: 0.9119478706514382
+Epoch: 294
+Ave squared error: 0.8886960610774768
+Epoch: 295
+Ave squared error: 0.9115518582081845
+Epoch: 296
+Ave squared error: 0.8887886123199117
+Epoch: 297
+Ave squared error: 0.9128248533264587
+Epoch: 298
+Ave squared error: 0.8867079497627651
+Epoch: 299
+Ave squared error: 0.9078047428439145
+Epoch: 300
+Ave squared error: 0.8958214680743377
+Epoch: 301
+Ave squared error: 0.9232556862264555
+Epoch: 302
+Ave squared error: 0.8992677116840916
+Epoch: 303
+Ave squared error: 0.8722941928527266
+Epoch: 304
+Ave squared error: 0.8862131934444593
+Epoch: 305
+Ave squared error: 0.8911579894889757
+Epoch: 306
+Ave squared error: 0.9216537467613037
+Epoch: 307
+Ave squared error: 0.8965295255172376
+Epoch: 308
+Ave squared error: 0.8747019788671728
+Epoch: 309
+Ave squared error: 0.9073856207318782
+Epoch: 310
+Ave squared error: 0.8819743217858899
+Epoch: 311
+Ave squared error: 0.9081798601864989
+Epoch: 312
+Ave squared error: 0.8797593301729487
+Epoch: 313
+Ave squared error: 0.9062629192940149
+Epoch: 314
+Ave squared error: 0.9181985955586666
+Epoch: 315
+Ave squared error: 0.9376093281231506
+Epoch: 316
+Ave squared error: 0.923541419369312
+Epoch: 317
+Ave squared error: 0.8873946575910785
+Epoch: 318
+Ave squared error: 0.8731577037456614
+Epoch: 319
+Ave squared error: 0.877128744850924
+Epoch: 320
+Ave squared error: 0.8795275298510664
+Epoch: 321
+Ave squared error: 0.9185285784531473
+Epoch: 322
+Ave squared error: 0.8841111772752033
+Epoch: 323
+Ave squared error: 0.8852459054669539
+Epoch: 324
+Ave squared error: 0.9124308621801372
+Epoch: 325
+Ave squared error: 0.9535441845536841
+Epoch: 326
+Ave squared error: 0.9254308826012588
+Epoch: 327
+Ave squared error: 0.881212244720796
+Epoch: 328
+Ave squared error: 0.8661525175301474
+Epoch: 329
+Ave squared error: 0.8687004772220618
+Epoch: 330
+Ave squared error: 0.8646323926835514
+Epoch: 331
+Ave squared error: 0.8960840305437726
+Epoch: 332
+Ave squared error: 0.9319780142865718
+Epoch: 333
+Ave squared error: 0.9689434279514011
+Epoch: 334
+Ave squared error: 0.9318953139589389
+Epoch: 335
+Ave squared error: 0.8990417047255329
+Epoch: 336
+Ave squared error: 0.8702753882774147
+Epoch: 337
+Ave squared error: 0.8938113582343823
+Epoch: 338
+Ave squared error: 0.8945526067297068
+Epoch: 339
+Ave squared error: 0.9342742960576412
+Epoch: 340
+Ave squared error: 0.9036973670739036
+Epoch: 341
+Ave squared error: 0.8684763012991359
+Epoch: 342
+Ave squared error: 0.8853211096973046
+Epoch: 343
+Ave squared error: 0.8961981610419129
+Epoch: 344
+Ave squared error: 0.9234945524274384
+Epoch: 345
+Ave squared error: 0.895456596924415
+Epoch: 346
+Ave squared error: 0.8664545914306246
+Epoch: 347
+Ave squared error: 0.8939290579685433
+Epoch: 348
+Ave squared error: 0.9024546817496321
+Epoch: 349
+Ave squared error: 0.9278633606590536
+Epoch: 350
+Ave squared error: 0.9100381685959831
+Epoch: 351
+Ave squared error: 0.8630650826833057
+Epoch: 352
+Ave squared error: 0.8792857045857841
+Epoch: 353
+Ave squared error: 0.8906804149635307
+Epoch: 354
+Ave squared error: 0.9246857313735458
+Epoch: 355
+Ave squared error: 0.8890614523981829
+Epoch: 356
+Ave squared error: 0.8630118310855296
+Epoch: 357
+Ave squared error: 0.8659086996446894
+Epoch: 358
+Ave squared error: 0.872782260662499
+Epoch: 359
+Ave squared error: 0.911996904778209
+Epoch: 360
+Ave squared error: 0.8837251461810687
+Epoch: 361
+Ave squared error: 0.9160167503574376
+Epoch: 362
+Ave squared error: 0.8788912345399198
+Epoch: 363
+Ave squared error: 0.9115833058958372
+Epoch: 364
+Ave squared error: 0.9480087937945103
+Epoch: 365
+Ave squared error: 0.9481113412474873
+Epoch: 366
+Ave squared error: 0.9297270978767284
+Epoch: 367
+Ave squared error: 0.892847202530282
+Epoch: 368
+Ave squared error: 0.8664324967538884
+Epoch: 369
+Ave squared error: 0.885336195012306
+Epoch: 370
+Ave squared error: 0.8875740957221776
+Epoch: 371
+Ave squared error: 0.9278463409737603
+Epoch: 372
+Ave squared error: 0.8890957683041635
+Epoch: 373
+Ave squared error: 0.8621152626436351
+Epoch: 374
+Ave squared error: 0.8563870701152598
+Epoch: 375
+Ave squared error: 0.8584784124794119
+Epoch: 376
+Ave squared error: 0.8581293632101072
+Epoch: 377
+Ave squared error: 0.8929848514015626
+Epoch: 378
+Ave squared error: 0.9406263502006994
+Epoch: 379
+Ave squared error: 0.9767395386155858
+Epoch: 380
+Ave squared error: 0.934324195427689
+Epoch: 381
+Ave squared error: 0.8832097915580812
+Epoch: 382
+Ave squared error: 0.8612531277759521
+Epoch: 383
+Ave squared error: 0.8937286226847484
+Epoch: 384
+Ave squared error: 0.8987694969535934
+Epoch: 385
+Ave squared error: 0.9382095335138337
+Epoch: 386
+Ave squared error: 0.8981373000653813
+Epoch: 387
+Ave squared error: 0.8610138449009831
+Epoch: 388
+Ave squared error: 0.8639645048198262
+Epoch: 389
+Ave squared error: 0.8657276006253579
+Epoch: 390
+Ave squared error: 0.8983181138986535
+Epoch: 391
+Ave squared error: 0.8893980767028141
+Epoch: 392
+Ave squared error: 0.9126914881396253
+Epoch: 393
+Ave squared error: 0.8773268940304316
+Epoch: 394
+Ave squared error: 0.8603185809780477
+Epoch: 395
+Ave squared error: 0.871879730178367
+Epoch: 396
+Ave squared error: 0.923448812702417
+Epoch: 397
+Ave squared error: 0.8989117486009592
+Epoch: 398
+Ave squared error: 0.9204994610681415
+Epoch: 399
+Ave squared error: 0.8714247570198329
+Epoch: 400
+Ave squared error: 0.8577767131669838
+Epoch: 401
+Ave squared error: 0.8695354872411127
+Epoch: 402
+Ave squared error: 0.916336238291329
+Epoch: 403
+Ave squared error: 0.9059889155115474
+Epoch: 404
+Ave squared error: 0.9237379396067114
+Epoch: 405
+Ave squared error: 0.8873938461535207
+Epoch: 406
+Ave squared error: 0.8513570424011735
+Epoch: 407
+Ave squared error: 0.8613404648177134
+Epoch: 408
+Ave squared error: 0.8537059744633223
+Epoch: 409
+Ave squared error: 0.8816478609724111
+Epoch: 410
+Ave squared error: 0.8984377344307249
+Epoch: 411
+Ave squared error: 0.9308430230118289
+Epoch: 412
+Ave squared error: 0.8924554846937763
+Epoch: 413
+Ave squared error: 0.8597219089875504
+Epoch: 414
+Ave squared error: 0.8509986579798845
+Epoch: 415
+Ave squared error: 0.853625441126933
+Epoch: 416
+Ave squared error: 0.8816387649298388
+Epoch: 417
+Ave squared error: 0.9148209653488709
+Epoch: 418
+Ave squared error: 0.9387215159413028
+Epoch: 419
+Ave squared error: 0.9150981344690426
+Epoch: 420
+Ave squared error: 0.8564806139857989
+Epoch: 421
+Ave squared error: 0.8570737824205323
+Epoch: 422
+Ave squared error: 0.8678639717518407
+Epoch: 423
+Ave squared error: 0.906162839911989
+Epoch: 424
+Ave squared error: 0.8822657937199925
+Epoch: 425
+Ave squared error: 0.9078244160318156
+Epoch: 426
+Ave squared error: 0.8644293591120761
+Epoch: 427
+Ave squared error: 0.8918512407624845
+Epoch: 428
+Ave squared error: 0.9432768303187856
+Epoch: 429
+Ave squared error: 0.9515115622298981
+Epoch: 430
+Ave squared error: 0.92811981998869
+Epoch: 431
+Ave squared error: 0.8634208346861558
+Epoch: 432
+Ave squared error: 0.8482709610211776
+Epoch: 433
+Ave squared error: 0.8728748692208343
+Epoch: 434
+Ave squared error: 0.8830282902335
+Epoch: 435
+Ave squared error: 0.9306920936233487
+Epoch: 436
+Ave squared error: 0.8778397292107719
+Epoch: 437
+Ave squared error: 0.867779250969393
+Epoch: 438
+Ave squared error: 0.860455683229496
+Epoch: 439
+Ave squared error: 0.8982633948544132
+Epoch: 440
+Ave squared error: 0.8864211172898925
+Epoch: 441
+Ave squared error: 0.9255794278837235
+Epoch: 442
+Ave squared error: 0.8753353569344204
+Epoch: 443
+Ave squared error: 0.8789655135676112
+Epoch: 444
+Ave squared error: 0.879941429494402
+Epoch: 445
+Ave squared error: 0.9233597492348592
+Epoch: 446
+Ave squared error: 0.8725625730742993
+Epoch: 447
+Ave squared error: 0.8690947282392476
+Epoch: 448
+Ave squared error: 0.870059026076424
+Epoch: 449
+Ave squared error: 0.9119820387180558
+Epoch: 450
+Ave squared error: 0.8730888016493369
+Epoch: 451
+Ave squared error: 0.8905891292634924
+Epoch: 452
+Ave squared error: 0.8827731304983494
+Epoch: 453
+Ave squared error: 0.9267105847286448
+Epoch: 454
+Ave squared error: 0.872042655107289
+Epoch: 455
+Ave squared error: 0.8736493864329694
+Epoch: 456
+Ave squared error: 0.8633553238576005
+Epoch: 457
+Ave squared error: 0.9012330895367697
+Epoch: 458
+Ave squared error: 0.8737286616003004
+Epoch: 459
+Ave squared error: 0.899332748386735
+Epoch: 460
+Ave squared error: 0.8762665527854652
+Epoch: 461
+Ave squared error: 0.9052944399196068
+Epoch: 462
+Ave squared error: 0.8727237273456228
+Epoch: 463
+Ave squared error: 0.8933068027558096
+Epoch: 464
+Ave squared error: 0.8728714746501323
+Epoch: 465
+Ave squared error: 0.906407322709572
+Epoch: 466
+Ave squared error: 0.8743208817711029
+Epoch: 467
+Ave squared error: 0.8913900917671884
+Epoch: 468
+Ave squared error: 0.8614164731295196
+Epoch: 469
+Ave squared error: 0.8952248944495339
+Epoch: 470
+Ave squared error: 0.8892806960612212
+Epoch: 471
+Ave squared error: 0.9036211924362848
+Epoch: 472
+Ave squared error: 0.8551847665863811
+Epoch: 473
+Ave squared error: 0.8445314605671733
+Epoch: 474
+Ave squared error: 0.8528182763040348
+Epoch: 475
+Ave squared error: 0.88837819024178
+Epoch: 476
+Ave squared error: 0.8931198564697278
+Epoch: 477
+Ave squared error: 0.9046891444608031
+Epoch: 478
+Ave squared error: 0.8573951904674054
+Epoch: 479
+Ave squared error: 0.8380220845719221
+Epoch: 480
+Ave squared error: 0.8375153142904462
+Epoch: 481
+Ave squared error: 0.8552262615635359
+Epoch: 482
+Ave squared error: 0.8798392395613566
+Epoch: 483
+Ave squared error: 0.9160790034483756
+Epoch: 484
+Ave squared error: 0.8646695167037096
+Epoch: 485
+Ave squared error: 0.8648144051075779
+Epoch: 486
+Ave squared error: 0.8468910927615587
+Epoch: 487
+Ave squared error: 0.8793561618226378
+Epoch: 488
+Ave squared error: 0.8828218389207186
+Epoch: 489
+Ave squared error: 0.9064149118736803
+Epoch: 490
+Ave squared error: 0.8567837335308512
+Epoch: 491
+Ave squared error: 0.8492385692817846
+Epoch: 492
+Ave squared error: 0.8473832199670126
+Epoch: 493
+Ave squared error: 0.882304835090762
+Epoch: 494
+Ave squared error: 0.8853015781325303
+Epoch: 495
+Ave squared error: 0.9012887768969748
+Epoch: 496
+Ave squared error: 0.8518468265087755
+Epoch: 497
+Ave squared error: 0.8405536976755708
+Epoch: 498
+Ave squared error: 0.8424264513014589
+Epoch: 499
+Ave squared error: 0.873478970700334
+Epoch: 500
+Ave squared error: 0.8885091573871443
+Epoch: 501
+Ave squared error: 0.9047841764399053
+Epoch: 502
+Ave squared error: 0.8544187234695072
+Epoch: 503
+Ave squared error: 0.836436667639463
+Epoch: 504
+Ave squared error: 0.8298177734915716
+Epoch: 505
+Ave squared error: 0.8439290389025796
+Epoch: 506
+Ave squared error: 0.860387974216385
+Epoch: 507
+Ave squared error: 0.9007410697927416
+Epoch: 508
+Ave squared error: 0.874145056751345
+Epoch: 509
+Ave squared error: 0.8856967064305061
+Epoch: 510
+Ave squared error: 0.839661800956715
+Epoch: 511
+Ave squared error: 0.8608852039349066
+Epoch: 512
+Ave squared error: 0.8808732679826222
+Epoch: 513
+Ave squared error: 0.905860437828725
+Epoch: 514
+Ave squared error: 0.8528460388841045
+Epoch: 515
+Ave squared error: 0.841321851400273
+Epoch: 516
+Ave squared error: 0.8324988703644883
+Epoch: 517
+Ave squared error: 0.854631050544281
+Epoch: 518
+Ave squared error: 0.8697976346275389
+Epoch: 519
+Ave squared error: 0.9035206409053191
+Epoch: 520
+Ave squared error: 0.8567580063780361
+Epoch: 521
+Ave squared error: 0.8597529994393822
+Epoch: 522
+Ave squared error: 0.8437108585809361
+Epoch: 523
+Ave squared error: 0.8778732774027872
+Epoch: 524
+Ave squared error: 0.8755892472050646
+Epoch: 525
+Ave squared error: 0.8920737908136982
+Epoch: 526
+Ave squared error: 0.8434158011865005
+Epoch: 527
+Ave squared error: 0.8425434924265042
+Epoch: 528
+Ave squared error: 0.8486096296277331
+Epoch: 529
+Ave squared error: 0.8836690058135396
+Epoch: 530
+Ave squared error: 0.8728846307809817
+Epoch: 531
+Ave squared error: 0.8855295340451967
+Epoch: 532
+Ave squared error: 0.8392693725002268
+Epoch: 533
+Ave squared error: 0.8471205558120033
+Epoch: 534
+Ave squared error: 0.8579758135935607
+Epoch: 535
+Ave squared error: 0.8906227456821202
+Epoch: 536
+Ave squared error: 0.8607006799157217
+Epoch: 537
+Ave squared error: 0.8710626938728416
+Epoch: 538
+Ave squared error: 0.8422539291400026
+Epoch: 539
+Ave squared error: 0.8686471013885322
+Epoch: 540
+Ave squared error: 0.8690004443353163
+Epoch: 541
+Ave squared error: 0.8880255907777719
+Epoch: 542
+Ave squared error: 0.8438807951197218
+Epoch: 543
+Ave squared error: 0.8474437814695737
+Epoch: 544
+Ave squared error: 0.847415509041549
+Epoch: 545
+Ave squared error: 0.8793350966866353
+Epoch: 546
+Ave squared error: 0.8653243124542543
+Epoch: 547
+Ave squared error: 0.8786487565582114
+Epoch: 548
+Ave squared error: 0.8398599509326301
+Epoch: 549
+Ave squared error: 0.8534488734537479
+Epoch: 550
+Ave squared error: 0.8578632373208358
+Epoch: 551
+Ave squared error: 0.8851264528816859
+Epoch: 552
+Ave squared error: 0.8537658103064343
+Epoch: 553
+Ave squared error: 0.8630375008067354
+Epoch: 554
+Ave squared error: 0.843306253811444
+Epoch: 555
+Ave squared error: 0.8693117600482798
+Epoch: 556
+Ave squared error: 0.8626261741508724
+Epoch: 557
+Ave squared error: 0.8793443061871098
+Epoch: 558
+Ave squared error: 0.8427728854971671
+Epoch: 559
+Ave squared error: 0.8529831249447121
+Epoch: 560
+Ave squared error: 0.8504956440356936
+Epoch: 561
+Ave squared error: 0.8773232827259676
+Epoch: 562
+Ave squared error: 0.8571080637436103
+Epoch: 563
+Ave squared error: 0.8689558833801383
+Epoch: 564
+Ave squared error: 0.8415809682738626
+Epoch: 565
+Ave squared error: 0.8601768798215643
+Epoch: 566
+Ave squared error: 0.8567048106975711
+Epoch: 567
+Ave squared error: 0.8769196311825294
+Epoch: 568
+Ave squared error: 0.8479479998662168
+Epoch: 569
+Ave squared error: 0.8584539275370042
+Epoch: 570
+Ave squared error: 0.8456972398797606
+Epoch: 571
+Ave squared error: 0.8684659133763643
+Epoch: 572
+Ave squared error: 0.8561282809744825
+Epoch: 573
+Ave squared error: 0.870302185455485
+Epoch: 574
+Ave squared error: 0.8431472411591155
+Epoch: 575
+Ave squared error: 0.8570930894739441
+Epoch: 576
+Ave squared error: 0.8502723872320896
+Epoch: 577
+Ave squared error: 0.8705463158405965
+Epoch: 578
+Ave squared error: 0.8509299863377631
+Epoch: 579
+Ave squared error: 0.8628811590667075
+Epoch: 580
+Ave squared error: 0.8437556988458329
+Epoch: 581
+Ave squared error: 0.8610095392074731
+Epoch: 582
+Ave squared error: 0.851615504888055
+Epoch: 583
+Ave squared error: 0.8676458815147032
+Epoch: 584
+Ave squared error: 0.8462749074458975
+Epoch: 585
+Ave squared error: 0.8587064286333727
+Epoch: 586
+Ave squared error: 0.8458405762242237
+Epoch: 587
+Ave squared error: 0.8630508818738277
+Epoch: 588
+Ave squared error: 0.8497002234434475
+Epoch: 589
+Ave squared error: 0.8631139194235038
+Epoch: 590
+Ave squared error: 0.8444551995601188
+Epoch: 591
+Ave squared error: 0.8580895321925337
+Epoch: 592
+Ave squared error: 0.8468001071533457
+Epoch: 593
+Ave squared error: 0.8621387059205972
+Epoch: 594
+Ave squared error: 0.8469312395111545
+Epoch: 595
+Ave squared error: 0.8594667383561839
+Epoch: 596
+Ave squared error: 0.8442287354731388
+Epoch: 597
+Ave squared error: 0.858097810159395
+Epoch: 598
+Ave squared error: 0.8462018640521835
+Epoch: 599
+Ave squared error: 0.8597843050235086
+Epoch: 600
+Ave squared error: 0.8448930456956316
+Epoch: 601
+Ave squared error: 0.8572503791236327
+Epoch: 602
+Ave squared error: 0.8440533870978256
+Epoch: 603
+Ave squared error: 0.8572904836061008
+Epoch: 604
+Ave squared error: 0.8448409591550162
+Epoch: 605
+Ave squared error: 0.857323648211149
+Epoch: 606
+Ave squared error: 0.843608021624429
+Epoch: 607
+Ave squared error: 0.8557399614754851
+Epoch: 608
+Ave squared error: 0.8434242511492519
+Epoch: 609
+Ave squared error: 0.85581053764224
+Epoch: 610
+Ave squared error: 0.8434158836249225
+Epoch: 611
+Ave squared error: 0.8552234316279864
+Epoch: 612
+Ave squared error: 0.8426014087779757
+Epoch: 613
+Ave squared error: 0.8543081250653449
+Epoch: 614
+Ave squared error: 0.8424548106033724
+Epoch: 615
+Ave squared error: 0.8540916329274079
+Epoch: 616
+Ave squared error: 0.842134151746755
+Epoch: 617
+Ave squared error: 0.8534160281032672
+Epoch: 618
+Ave squared error: 0.8415970868081903
+Epoch: 619
+Ave squared error: 0.852782009483238
+Epoch: 620
+Ave squared error: 0.8413483667758918
+Epoch: 621
+Ave squared error: 0.8523659245380978
+Epoch: 622
+Ave squared error: 0.8409571850666745
+Epoch: 623
+Ave squared error: 0.851742295908325
+Epoch: 624
+Ave squared error: 0.8405366003842577
+Epoch: 625
+Ave squared error: 0.8511899532635384
+Epoch: 626
+Ave squared error: 0.8402138255843498
+Epoch: 627
+Ave squared error: 0.850688583136019
+Epoch: 628
+Ave squared error: 0.839823860004338
+Epoch: 629
+Ave squared error: 0.8501138152365909
+Epoch: 630
+Ave squared error: 0.8394408166086444
+Epoch: 631
+Ave squared error: 0.8495776244785576
+Epoch: 632
+Ave squared error: 0.839086208490163
+Epoch: 633
+Ave squared error: 0.8490497705910414
+Epoch: 634
+Ave squared error: 0.8387076675938425
+Epoch: 635
+Ave squared error: 0.8485001178318398
+Epoch: 636
+Ave squared error: 0.8383365745093592
+Epoch: 637
+Ave squared error: 0.8479657615178052
+Epoch: 638
+Ave squared error: 0.8379738521564245
+Epoch: 639
+Ave squared error: 0.8474320072296726
+Epoch: 640
+Ave squared error: 0.8376049222678303
+Epoch: 641
+Ave squared error: 0.8468925083628516
+Epoch: 642
+Ave squared error: 0.8372405369885673
+Epoch: 643
+Ave squared error: 0.8463580069513259
+Epoch: 644
+Ave squared error: 0.8368797623833202
+Epoch: 645
+Ave squared error: 0.8458231905100999
+Epoch: 646
+Ave squared error: 0.8365188617996074
+Epoch: 647
+Ave squared error: 0.845286716411769
+Epoch: 648
+Ave squared error: 0.8361610305608247
+Epoch: 649
+Ave squared error: 0.8447513381737921
+Epoch: 650
+Ave squared error: 0.8358058091488747
+Epoch: 651
+Ave squared error: 0.8442153580107047
+Epoch: 652
+Ave squared error: 0.8354522342593839
+Epoch: 653
+Ave squared error: 0.8436783567497763
+Epoch: 654
+Ave squared error: 0.835101105657255
+Epoch: 655
+Ave squared error: 0.8431408968597386
+Epoch: 656
+Ave squared error: 0.8347522230412809
+Epoch: 657
+Ave squared error: 0.8426024125033117
+Epoch: 658
+Ave squared error: 0.8344052604168619
+Epoch: 659
+Ave squared error: 0.8420626707351646
+Epoch: 660
+Ave squared error: 0.8340603115381495
+Epoch: 661
+Ave squared error: 0.8415216888778709
+Epoch: 662
+Ave squared error: 0.833717223079701
+Epoch: 663
+Ave squared error: 0.8409792279752882
+Epoch: 664
+Ave squared error: 0.8333757969869608
+Epoch: 665
+Ave squared error: 0.8404351292583211
+Epoch: 666
+Ave squared error: 0.8330359298570633
+Epoch: 667
+Ave squared error: 0.839889309423186
+Epoch: 668
+Ave squared error: 0.832697465727809
+Epoch: 669
+Ave squared error: 0.8393416431372358
+Epoch: 670
+Ave squared error: 0.8323602362186893
+Epoch: 671
+Ave squared error: 0.8387920327895889
+Epoch: 672
+Ave squared error: 0.8320240981121518
+Epoch: 673
+Ave squared error: 0.8382404141141566
+Epoch: 674
+Ave squared error: 0.8316889052365375
+Epoch: 675
+Ave squared error: 0.8376867305206254
+Epoch: 676
+Ave squared error: 0.8313545159245971
+Epoch: 677
+Ave squared error: 0.83713094578966
+Epoch: 678
+Ave squared error: 0.8310208036233331
+Epoch: 679
+Ave squared error: 0.8365730470808297
+Epoch: 680
+Ave squared error: 0.8306876531532426
+Epoch: 681
+Ave squared error: 0.8360130396391038
+Epoch: 682
+Ave squared error: 0.8303549624614094
+Epoch: 683
+Ave squared error: 0.8354509484205541
+Epoch: 684
+Ave squared error: 0.830022645715053
+Epoch: 685
+Ave squared error: 0.8348868186684886
+Epoch: 686
+Ave squared error: 0.8296906333589329
+Epoch: 687
+Ave squared error: 0.834320714409388
+Epoch: 688
+Ave squared error: 0.829358872580839
+Epoch: 689
+Ave squared error: 0.8337527178667768
+Epoch: 690
+Ave squared error: 0.8290273279694047
+Epoch: 691
+Ave squared error: 0.8331829287320004
+Epoch: 692
+Ave squared error: 0.8286959814220765
+Epoch: 693
+Ave squared error: 0.8326114628595328
+Epoch: 694
+Ave squared error: 0.8283648318084781
+Epoch: 695
+Ave squared error: 0.83203845090167
+Epoch: 696
+Ave squared error: 0.8280338944682399
+Epoch: 697
+Ave squared error: 0.8314640368017594
+Epoch: 698
+Ave squared error: 0.8277032003816217
+Epoch: 699
+Ave squared error: 0.8308883760507366
+Epoch: 700
+Ave squared error: 0.8273727950797756
+Epoch: 701
+Ave squared error: 0.8303116337964297
+Epoch: 702
+Ave squared error: 0.8270427373401908
+Epoch: 703
+Ave squared error: 0.8297339828328211
+Epoch: 704
+Ave squared error: 0.8267130976639316
+Epoch: 705
+Ave squared error: 0.8291556014793248
+Epoch: 706
+Ave squared error: 0.8263839565640663
+Epoch: 707
+Ave squared error: 0.8285766713923796
+Epoch: 708
+Ave squared error: 0.8260554027036611
+Epoch: 709
+Ave squared error: 0.8279973753518148
+Epoch: 710
+Ave squared error: 0.8257275309181944
+Epoch: 711
+Ave squared error: 0.8274178950620937
+Epoch: 712
+Ave squared error: 0.8254004401641083
+Epoch: 713
+Ave squared error: 0.8268384090133929
+Epoch: 714
+Ave squared error: 0.8250742314402341
+Epoch: 715
+Ave squared error: 0.8262590904477217
+Epoch: 716
+Ave squared error: 0.8247490057299339
+Epoch: 717
+Ave squared error: 0.8256801054725372
+Epoch: 718
+Ave squared error: 0.8244248620121787
+Epoch: 719
+Ave squared error: 0.8251016113606512
+Epoch: 720
+Ave squared error: 0.8241018953883602
+Epoch: 721
+Ave squared error: 0.8245237550697335
+Epoch: 722
+Ave squared error: 0.8237801953678572
+Epoch: 723
+Ave squared error: 0.82394667200738
+Epoch: 724
+Ave squared error: 0.8234598443497114
+Epoch: 725
+Ave squared error: 0.8233704850593738
+Epoch: 726
+Ave squared error: 0.8231409163302981
+Epoch: 727
+Ave squared error: 0.8227953038897649
+Epoch: 728
+Ave squared error: 0.8228234758583469
+Epoch: 729
+Ave squared error: 0.8222212245122058
+Epoch: 730
+Ave squared error: 0.8225075772490815
+Epoch: 731
+Ave squared error: 0.8216483291232128
+Epoch: 732
+Ave squared error: 0.8221932640596612
+Epoch: 733
+Ave squared error: 0.8210766861802151
+Epoch: 734
+Ave squared error: 0.8218805688188189
+Epoch: 735
+Ave squared error: 0.820506350700709
+Epoch: 736
+Ave squared error: 0.8215695129951833
+Epoch: 737
+Ave squared error: 0.8199373647538608
+Epoch: 738
+Ave squared error: 0.8212601071817907
+Epoch: 739
+Ave squared error: 0.8193697581128329
+Epoch: 740
+Ave squared error: 0.8209523514688594
+Epoch: 741
+Ave squared error: 0.8188035490345441
+Epoch: 742
+Ave squared error: 0.8206462359733597
+Epoch: 743
+Ave squared error: 0.8182387451339059
+Epoch: 744
+Ave squared error: 0.820341741492131
+Epoch: 745
+Ave squared error: 0.8176753443211183
+Epoch: 746
+Ave squared error: 0.8200388402452545
+Epoch: 747
+Ave squared error: 0.8171133357733414
+Epoch: 748
+Ave squared error: 0.8197374966778039
+Epoch: 749
+Ave squared error: 0.8165527009156206
+Epoch: 750
+Ave squared error: 0.819437668290713
+Epoch: 751
+Ave squared error: 0.8159934143898382
+Epoch: 752
+Ave squared error: 0.8191393064749756
+Epoch: 753
+Ave squared error: 0.8154354449946513
+Epoch: 754
+Ave squared error: 0.8188423573273649
+Epoch: 755
+Ave squared error: 0.8148787565833797
+Epoch: 756
+Ave squared error: 0.8185467624301034
+Epoch: 757
+Ave squared error: 0.8143233089105505
+Epoch: 758
+Ave squared error: 0.8182524595810972
+Epoch: 759
+Ave squared error: 0.8137690584210846
+Epoch: 760
+Ave squared error: 0.8179593834652102
+Epoch: 761
+Ave squared error: 0.813215958978983
+Epoch: 762
+Ave squared error: 0.8176674662606997
+Epoch: 763
+Ave squared error: 0.8126639625345543
+Epoch: 764
+Ave squared error: 0.8173766381778661
+Epoch: 765
+Ave squared error: 0.8121130197310472
+Epoch: 766
+Ave squared error: 0.8170868279295554
+Epoch: 767
+Ave squared error: 0.8115630804528162
+Epoch: 768
+Ave squared error: 0.8167979631351253
+Epoch: 769
+Ave squared error: 0.8110140943179633
+Epoch: 770
+Ave squared error: 0.8165099706609723
+Epoch: 771
+Ave squared error: 0.8104660111189814
+Epoch: 772
+Ave squared error: 0.8162227769017362
+Epoch: 773
+Ave squared error: 0.809918781215102
+Epoch: 774
+Ave squared error: 0.8159363080070157
+Epoch: 775
+Ave squared error: 0.8093723558800451
+Epoch: 776
+Ave squared error: 0.8156504900586835
+Epoch: 777
+Ave squared error: 0.8088266876087987
+Epoch: 778
+Ave squared error: 0.8153652492040224
+Epoch: 779
+Ave squared error: 0.8082817303867039
+Epoch: 780
+Ave squared error: 0.8150805117497704
+Epoch: 781
+Ave squared error: 0.8077374399238376
+Epoch: 782
+Ave squared error: 0.814796204221891
+Epoch: 783
+Ave squared error: 0.8071937738573237
+Epoch: 784
+Ave squared error: 0.8145122533955492
+Epoch: 785
+Ave squared error: 0.8066506919238033
+Epoch: 786
+Ave squared error: 0.8142285862993438
+Epoch: 787
+Ave squared error: 0.8061081561039205
+Epoch: 788
+Ave squared error: 0.8139451301974125
+Epoch: 789
+Ave squared error: 0.8055661307403384
+Epoch: 790
+Ave squared error: 0.8136618125525794
+Epoch: 791
+Ave squared error: 0.8050245826304702
+Epoch: 792
+Ave squared error: 0.813378560973289
+Epoch: 793
+Ave squared error: 0.8044834810948035
+Epoch: 794
+Ave squared error: 0.8130953031466194
+Epoch: 795
+Ave squared error: 0.8039427980214768
+Epoch: 796
+Ave squared error: 0.8128119667593887
+Epoch: 797
+Ave squared error: 0.8034025078875279
+Epoch: 798
+Ave squared error: 0.8125284794089113
+Epoch: 799
+Ave squared error: 0.8028625877571086
+Epoch: 800
+Ave squared error: 0.8122447685047843
+Epoch: 801
+Ave squared error: 0.8023230172568279
+Epoch: 802
+Ave squared error: 0.8119607611627712
+Epoch: 803
+Ave squared error: 0.8017837785283266
+Epoch: 804
+Ave squared error: 0.8116763840916877
+Epoch: 805
+Ave squared error: 0.8012448561581823
+Epoch: 806
+Ave squared error: 0.8113915634740125
+Epoch: 807
+Ave squared error: 0.8007062370852439
+Epoch: 808
+Ave squared error: 0.8111062248408628
+Epoch: 809
+Ave squared error: 0.8001679104856018
+Epoch: 810
+Ave squared error: 0.8108202929418877
+Epoch: 811
+Ave squared error: 0.7996298676355054
+Epoch: 812
+Ave squared error: 0.8105336916106032
+Epoch: 813
+Ave squared error: 0.799092101752661
+Epoch: 814
+Ave squared error: 0.8102463436256762
+Epoch: 815
+Ave squared error: 0.7985546078165809
+Epoch: 816
+Ave squared error: 0.809958170568731
+Epoch: 817
+Ave squared error: 0.7980173823688235
+Epoch: 818
+Ave squared error: 0.809669092679252
+Epoch: 819
+Ave squared error: 0.7974804232942369
+Epoch: 820
+Ave squared error: 0.8093790287072731
+Epoch: 821
+Ave squared error: 0.7969437295845234
+Epoch: 822
+Ave squared error: 0.8090878957646105
+Epoch: 823
+Ave squared error: 0.7964073010857914
+Epoch: 824
+Ave squared error: 0.8087956091755054
+Epoch: 825
+Ave squared error: 0.7958711382319151
+Epoch: 826
+Ave squared error: 0.8085020823276273
+Epoch: 827
+Ave squared error: 0.7953352417658911
+Epoch: 828
+Ave squared error: 0.8082072265245275
+Epoch: 829
+Ave squared error: 0.7947996124515719
+Epoch: 830
+Ave squared error: 0.8079109508406976
+Epoch: 831
+Ave squared error: 0.7942642507784063
+Epoch: 832
+Ave squared error: 0.8076131619805273
+Epoch: 833
+Ave squared error: 0.7937291566620408
+Epoch: 834
+Ave squared error: 0.8073137641424865
+Epoch: 835
+Ave squared error: 0.7931943291437937
+Epoch: 836
+Ave squared error: 0.8070126588899706
+Epoch: 837
+Ave squared error: 0.792659766092185
+Epoch: 838
+Ave squared error: 0.8067097450302876
+Epoch: 839
+Ave squared error: 0.7921254639097831
+Epoch: 840
+Ave squared error: 0.8064049185032897
+Epoch: 841
+Ave squared error: 0.7915914172487266
+Epoch: 842
+Ave squared error: 0.8060980722812005
+Epoch: 843
+Ave squared error: 0.7910576187382594
+Epoch: 844
+Ave squared error: 0.8057890962811228
+Epoch: 845
+Ave squared error: 0.7905240587276323
+Epoch: 846
+Ave squared error: 0.8054778772918048
+Epoch: 847
+Ave squared error: 0.7899907250475969
+Epoch: 848
+Ave squared error: 0.8051642989160626
+Epoch: 849
+Ave squared error: 0.7894576027936776
+Epoch: 850
+Ave squared error: 0.8048482415303275
+Epoch: 851
+Ave squared error: 0.7889246741341613
+Epoch: 852
+Ave squared error: 0.8045295822626627
+Epoch: 853
+Ave squared error: 0.7883919181456089
+Epoch: 854
+Ave squared error: 0.804208194990523
+Epoch: 855
+Ave squared error: 0.787859310678453
+Epoch: 856
+Ave squared error: 0.803883950359481
+Epoch: 857
+Ave squared error: 0.7873268242549436
+Epoch: 858
+Ave squared error: 0.803556715824027
+Epoch: 859
+Ave squared error: 0.7867944280014979
+Epoch: 860
+Ave squared error: 0.8032263557115186
+Epoch: 861
+Ave squared error: 0.7862620876171363
+Epoch: 862
+Ave squared error: 0.8028927313102152
+Epoch: 863
+Ave squared error: 0.78572976537943
+Epoch: 864
+Ave squared error: 0.8025557009823595
+Epoch: 865
+Ave squared error: 0.7851974201890614
+Epoch: 866
+Ave squared error: 0.8022151203031106
+Epoch: 867
+Ave squared error: 0.784665007653777
+Epoch: 868
+Ave squared error: 0.8018708422262021
+Epoch: 869
+Ave squared error: 0.784132480212244
+Epoch: 870
+Ave squared error: 0.8015227172770637
+Epoch: 871
+Ave squared error: 0.7835997872980022
+Epoch: 872
+Ave squared error: 0.8011705937742318
+Epoch: 873
+Ave squared error: 0.7830668755434682
+Epoch: 874
+Ave squared error: 0.8008143180798037
+Epoch: 875
+Ave squared error: 0.7825336890236769
+Epoch: 876
+Ave squared error: 0.8004537348797525
+Epoch: 877
+Ave squared error: 0.7820001695392297
+Epoch: 878
+Ave squared error: 0.8000886874949257
+Epoch: 879
+Ave squared error: 0.7814662569377033
+Epoch: 880
+Ave squared error: 0.7997190182235595
+Epoch: 881
+Ave squared error: 0.7809318894726001
+Epoch: 882
+Ave squared error: 0.7993445687162171
+Epoch: 883
+Ave squared error: 0.7803970041987395
+Epoch: 884
+Ave squared error: 0.7989651803840293
+Epoch: 885
+Ave squared error: 0.7798615374028137
+Epoch: 886
+Ave squared error: 0.7985806948411301
+Epoch: 887
+Ave squared error: 0.779325425067692
+Epoch: 888
+Ave squared error: 0.7981909543821718
+Epoch: 889
+Ave squared error: 0.7787886033688901
+Epoch: 890
+Ave squared error: 0.7977958024957145
+Epoch: 891
+Ave squared error: 0.7782510092013953
+Epoch: 892
+Ave squared error: 0.7973950844141617
+Epoch: 893
+Ave squared error: 0.7777125807349091
+Epoch: 894
+Ave squared error: 0.7969886477007566
+Epoch: 895
+Ave squared error: 0.7771732579952347
+Epoch: 896
+Ave squared error: 0.796576342873858
+Epoch: 897
+Ave squared error: 0.776632983469308
+Epoch: 898
+Ave squared error: 0.7961580240683824
+Epoch: 899
+Ave squared error: 0.7760917027309598
+Epoch: 900
+Ave squared error: 0.7957335497338134
+Epoch: 901
+Ave squared error: 0.7755493650841303
+Epoch: 902
+Ave squared error: 0.7953027833676112
+Epoch: 903
+Ave squared error: 0.7750059242196751
+Epoch: 904
+Ave squared error: 0.7948655942821479
+Epoch: 905
+Ave squared error: 0.774461338881382
+Epoch: 906
+Ave squared error: 0.7944218584024116
+Epoch: 907
+Ave squared error: 0.773915573536097
+Epoch: 908
+Ave squared error: 0.793971459090788
+Epoch: 909
+Ave squared error: 0.7733685990421164
+Epoch: 910
+Ave squared error: 0.7935142879940577
+Epoch: 911
+Ave squared error: 0.7728203933091375
+Epoch: 912
+Ave squared error: 0.7930502459065373
+Epoch: 913
+Ave squared error: 0.7722709419422125
+Epoch: 914
+Ave squared error: 0.7925792436419068
+Epoch: 915
+Ave squared error: 0.7717202388611538
+Epoch: 916
+Ave squared error: 0.7921012029048377
+Epoch: 917
+Ave squared error: 0.7711682868859119
+Epoch: 918
+Ave squared error: 0.7916160571520677
+Epoch: 919
+Ave squared error: 0.7706150982775151
+Epoch: 920
+Ave squared error: 0.7911237524310497
+Epoch: 921
+Ave squared error: 0.7700606952232982
+Epoch: 922
+Ave squared error: 0.7906242481829304
+Epoch: 923
+Ave squared error: 0.7695051102543982
+Epoch: 924
+Ave squared error: 0.7901175179952595
+Epoch: 925
+Ave squared error: 0.7689483865829303
+Epoch: 926
+Ave squared error: 0.7896035502888129
+Epoch: 927
+Ave squared error: 0.7683905783459455
+Epoch: 928
+Ave squared error: 0.7890823489220522
+Epoch: 929
+Ave squared error: 0.7678317507432397
+Epoch: 930
+Ave squared error: 0.7885539336963873
+Epoch: 931
+Ave squared error: 0.7672719800564258
+Epoch: 932
+Ave squared error: 0.7880183407453831
+Epoch: 933
+Ave squared error: 0.7667113535374855
+Epoch: 934
+Ave squared error: 0.7874756227917535
+Epoch: 935
+Ave squared error: 0.7661499691562486
+Epoch: 936
+Ave squared error: 0.786925849257113
+Epoch: 937
+Ave squared error: 0.7655879351980405
+Epoch: 938
+Ave squared error: 0.7863691062114249
+Epoch: 939
+Ave squared error: 0.7650253697050329
+Epoch: 940
+Ave squared error: 0.785805496151673
+Epoch: 941
+Ave squared error: 0.7644623997576838
+Epoch: 942
+Ave squared error: 0.7852351376026137
+Epoch: 943
+Ave squared error: 0.7638991605960018
+Epoch: 944
+Ave squared error: 0.7846581645364674
+Epoch: 945
+Ave squared error: 0.7633357945841457
+Epoch: 946
+Ave squared error: 0.7840747256130135
+Epoch: 947
+Ave squared error: 0.7627724500259986
+Epoch: 948
+Ave squared error: 0.7834849832466488
+Epoch: 949
+Ave squared error: 0.7622092798437531
+Epoch: 950
+Ave squared error: 0.7828891125123911
+Epoch: 951
+Ave squared error: 0.7616464401359397
+Epoch: 952
+Ave squared error: 0.7822872999083513
+Epoch: 953
+Ave squared error: 0.7610840886357357
+Epoch: 954
+Ave squared error: 0.7816797419976833
+Epoch: 955
+Ave squared error: 0.7605223830944137
+Epoch: 956
+Ave squared error: 0.7810666439581166
+Epoch: 957
+Ave squared error: 0.7599614796184225
+Epoch: 958
+Ave squared error: 0.7804482180716805
+Epoch: 959
+Ave squared error: 0.7594015309914879
+Epoch: 960
+Ave squared error: 0.7798246821909196
+Epoch: 961
+Ave squared error: 0.7588426850152298
+Epoch: 962
+Ave squared error: 0.7791962582203967
+Epoch: 963
+Ave squared error: 0.758285082902872
+Epoch: 964
+Ave squared error: 0.7785631706535857
+Epoch: 965
+Ave squared error: 0.7577288577606477
+Epoch: 966
+Ave squared error: 0.7779256452050832
+Epoch: 967
+Ave squared error: 0.7571741331903326
+Epoch: 968
+Ave squared error: 0.7772839075763336
+Epoch: 969
+Ave squared error: 0.7566210220440276
+Epoch: 970
+Ave squared error: 0.7766381823898583
+Epoch: 971
+Ave squared error: 0.7560696253589008
+Epoch: 972
+Ave squared error: 0.7759886923222882
+Epoch: 973
+Ave squared error: 0.7555200314951802
+Epoch: 974
+Ave squared error: 0.7753356574604195
+Epoch: 975
+Ave squared error: 0.7549723154953666
+Epoch: 976
+Ave squared error: 0.7746792948973732
+Epoch: 977
+Ave squared error: 0.7544265386767438
+Epoch: 978
+Ave squared error: 0.7740198185778707
+Epoch: 979
+Ave squared error: 0.753882748462826
+Epoch: 980
+Ave squared error: 0.7733574393929785
+Epoch: 981
+Ave squared error: 0.7533409784528281
+Epoch: 982
+Ave squared error: 0.772692365515771
+Epoch: 983
+Ave squared error: 0.7528012487216575
+Epoch: 984
+Ave squared error: 0.7720248029604492
+Epoch: 985
+Ave squared error: 0.7522635663365677
+Epoch: 986
+Ave squared error: 0.7713549563389235
+Epoch: 987
+Ave squared error: 0.7517279260708161
+Epoch: 988
+Ave squared error: 0.7706830297809054
+Epoch: 989
+Ave squared error: 0.7511943112892822
+Epoch: 990
+Ave squared error: 0.7700092279764588
+Epoch: 991
+Ave squared error: 0.7506626949765395
+Epoch: 992
+Ave squared error: 0.7693337572939192
+Epoch: 993
+Ave squared error: 0.7501330408741068
+Epoch: 994
+Ave squared error: 0.7686568269211898
+Epoch: 995
+Ave squared error: 0.7496053046907737
+Epoch: 996
+Ave squared error: 0.7679786499748466
+Epoch: 997
+Ave squared error: 0.749079435347911
+Epoch: 998
+Ave squared error: 0.7672994445192478
+Epoch: 999
+Ave squared error: 0.7485553762206477
+Epoch: 1000
+Ave squared error: 0.7666194344370765
+Epoch: 1001
+Ave squared error: 0.7480330663355884
+Epoch: 1002
+Ave squared error: 0.7659388500933262
+Epoch: 1003
+Ave squared error: 0.7475124414863935
+Epoch: 1004
+Ave squared error: 0.7652579287368848
+Epoch: 1005
+Ave squared error: 0.7469934352300737
+Epoch: 1006
+Ave squared error: 0.7645769145874389
+Epoch: 1007
+Ave squared error: 0.7464759797290658
+Epoch: 1008
+Ave squared error: 0.7638960585605274
+Epoch: 1009
+Ave squared error: 0.7459600064073009
+Epoch: 1010
+Ave squared error: 0.7632156175902073
+Epoch: 1011
+Ave squared error: 0.7454454463922517
+Epoch: 1012
+Ave squared error: 0.7625358535169242
+Epoch: 1013
+Ave squared error: 0.7449322307195878
+Epoch: 1014
+Ave squared error: 0.7618570315178902
+Epoch: 1015
+Ave squared error: 0.7444202902824346
+Epoch: 1016
+Ave squared error: 0.7611794180683735
+Epoch: 1017
+Ave squared error: 0.7439095555132813
+Epoch: 1018
+Ave squared error: 0.7605032784348754
+Epoch: 1019
+Ave squared error: 0.7433999557934295
+Epoch: 1020
+Ave squared error: 0.7598288737147997
+Epoch: 1021
+Ave squared error: 0.7428914185921687
+Epoch: 1022
+Ave squared error: 0.7591564574519273
+Epoch: 1023
+Ave squared error: 0.7423838683457992
+Epoch: 1024
+Ave squared error: 0.7584862718720823
+Epoch: 1025
+Ave squared error: 0.7418772250946893
+Epoch: 1026
+Ave squared error: 0.7578185437987313
+Epoch: 1027
+Ave squared error: 0.7413714029048261
+Epoch: 1028
+Ave squared error: 0.7571534803228284
+Epoch: 1029
+Ave squared error: 0.7408663081081747
+Epoch: 1030
+Ave squared error: 0.7564912643147609
+Epoch: 1031
+Ave squared error: 0.7403618374035812
+Epoch: 1032
+Ave squared error: 0.755832049877639
+Epoch: 1033
+Ave squared error: 0.7398578758661883
+Epoch: 1034
+Ave squared error: 0.7551759578497338
+Epoch: 1035
+Ave squared error: 0.7393542949182849
+Epoch: 1036
+Ave squared error: 0.7545230714688261
+Epoch: 1037
+Ave squared error: 0.7388509503175313
+Epoch: 1038
+Ave squared error: 0.7538734323117185
+Epoch: 1039
+Ave squared error: 0.738347680219282
+Epoch: 1040
+Ave squared error: 0.7532270366176549
+Epoch: 1041
+Ave squared error: 0.7378443033680253
+Epoch: 1042
+Ave squared error: 0.7525838320945125
+Epoch: 1043
+Ave squared error: 0.7373406174684686
+Epoch: 1044
+Ave squared error: 0.7519437152911398
+Epoch: 1045
+Ave squared error: 0.7368363977794942
+Epoch: 1046
+Ave squared error: 0.7513065295983437
+Epoch: 1047
+Ave squared error: 0.736331395964242
+Epoch: 1048
+Ave squared error: 0.7506720639152517
+Epoch: 1049
+Ave squared error: 0.7358253392170285
+Epoch: 1050
+Ave squared error: 0.7500400519879281
+Epoch: 1051
+Ave squared error: 0.7353179296734282
+Epoch: 1052
+Ave squared error: 0.7494101723942538
+Epoch: 1053
+Ave squared error: 0.7348088440937995
+Epoch: 1054
+Ave squared error: 0.7487820491145464
+Epoch: 1055
+Ave squared error: 0.7342977337938646
+Epoch: 1056
+Ave squared error: 0.7481552525926392
+Epoch: 1057
+Ave squared error: 0.7337842247791425
+Epoch: 1058
+Ave squared error: 0.7475293011584566
+Epoch: 1059
+Ave squared error: 0.7332679180239178
+Epoch: 1060
+Ave squared error: 0.7469036626518115
+Epoch: 1061
+Ave squared error: 0.7327483898204729
+Epoch: 1062
+Ave squared error: 0.7462777560589268
+Epoch: 1063
+Ave squared error: 0.7322251921111295
+Epoch: 1064
+Ave squared error: 0.7456509529485166
+Epoch: 1065
+Ave squared error: 0.7316978527041708
+Epoch: 1066
+Ave squared error: 0.7450225784724949
+Epoch: 1067
+Ave squared error: 0.7311658752649027
+Epoch: 1068
+Ave squared error: 0.7443919116764731
+Epoch: 1069
+Ave squared error: 0.7306287389643233
+Epoch: 1070
+Ave squared error: 0.7437581848447529
+Epoch: 1071
+Ave squared error: 0.7300858976590381
+Epoch: 1072
+Ave squared error: 0.7431205815800499
+Epoch: 1073
+Ave squared error: 0.7295367784655657
+Epoch: 1074
+Ave squared error: 0.742478233284783
+Epoch: 1075
+Ave squared error: 0.7289807795778628
+Epoch: 1076
+Ave squared error: 0.7418302136621512
+Epoch: 1077
+Ave squared error: 0.7284172671558862
+Epoch: 1078
+Ave squared error: 0.7411755307822716
+Epoch: 1079
+Ave squared error: 0.7278455710815126
+Epoch: 1080
+Ave squared error: 0.7405131161505346
+Epoch: 1081
+Ave squared error: 0.7272649793314562
+Epoch: 1082
+Ave squared error: 0.7398418100561551
+Epoch: 1083
+Ave squared error: 0.7266747306488301
+Epoch: 1084
+Ave squared error: 0.739160342248116
+Epoch: 1085
+Ave squared error: 0.7260740050976032
+Epoch: 1086
+Ave squared error: 0.7384673066539414
+Epoch: 1087
+Ave squared error: 0.7254619119471425
+Epoch: 1088
+Ave squared error: 0.7377611283826819
+Epoch: 1089
+Ave squared error: 0.7248374741435217
+Epoch: 1090
+Ave squared error: 0.7370400205774895
+Epoch: 1091
+Ave squared error: 0.7241996083629413
+Epoch: 1092
+Ave squared error: 0.7363019277183371
+Epoch: 1093
+Ave squared error: 0.7235470992889652
+Epoch: 1094
+Ave squared error: 0.7355444505953254
+Epoch: 1095
+Ave squared error: 0.7228785662862156
+Epoch: 1096
+Ave squared error: 0.7347647461930926
+Epoch: 1097
+Ave squared error: 0.7221924200412776
+Epoch: 1098
+Ave squared error: 0.7339593928834278
+Epoch: 1099
+Ave squared error: 0.7214868060179782
+Epoch: 1100
+Ave squared error: 0.7331242072507999
+Epoch: 1101
+Ave squared error: 0.7207595308260204
+Epoch: 1102
+Ave squared error: 0.7322539931068971
+Epoch: 1103
+Ave squared error: 0.7200079671565662
+Epoch: 1104
+Ave squared error: 0.7313421952956352
+Epoch: 1105
+Ave squared error: 0.7192289337047698
+Epoch: 1106
+Ave squared error: 0.7303804205769098
+Epoch: 1107
+Ave squared error: 0.718418550823504
+Epoch: 1108
+Ave squared error: 0.7293577764328069
+Epoch: 1109
+Ave squared error: 0.7175720863983406
+Epoch: 1110
+Ave squared error: 0.7282599718446663
+Epoch: 1111
+Ave squared error: 0.7166838440555722
+Epoch: 1112
+Ave squared error: 0.7270681410566489
+Epoch: 1113
+Ave squared error: 0.7157472426695715
+Epoch: 1114
+Ave squared error: 0.7257574482865761
+Epoch: 1115
+Ave squared error: 0.7147554776885409
+Epoch: 1116
+Ave squared error: 0.7242958638668267
+Epoch: 1117
+Ave squared error: 0.7137037411516285
+Epoch: 1118
+Ave squared error: 0.722644478131365
+Epoch: 1119
+Ave squared error: 0.7125953365063932
+Epoch: 1120
+Ave squared error: 0.7207633112540184
+Epoch: 1121
+Ave squared error: 0.7114568344800759
+Epoch: 1122
+Ave squared error: 0.7186325846012065
+Epoch: 1123
+Ave squared error: 0.7103713569726079
+Epoch: 1124
+Ave squared error: 0.7163091298173963
+Epoch: 1125
+Ave squared error: 0.7095344111996085
+Epoch: 1126
+Ave squared error: 0.7140311269676367
+Epoch: 1127
+Ave squared error: 0.7092731176375147
+Epoch: 1128
+Ave squared error: 0.7122552616569987
+Epoch: 1129
+Ave squared error: 0.709750429886253
+Epoch: 1130
+Ave squared error: 0.7111302132941071
+Epoch: 1131
+Ave squared error: 0.7101004143972278
+Epoch: 1132
+Ave squared error: 0.7093988261506015
+Epoch: 1133
+Ave squared error: 0.7085387286577457
+Epoch: 1134
+Ave squared error: 0.7055742605283032
+Epoch: 1135
+Ave squared error: 0.7048890819097129
+Epoch: 1136
+Ave squared error: 0.7007694640890417
+Epoch: 1137
+Ave squared error: 0.7009210511540785
+Epoch: 1138
+Ave squared error: 0.6970907200631632
+Epoch: 1139
+Ave squared error: 0.6981062473484235
+Epoch: 1140
+Ave squared error: 0.6956187047764874
+Epoch: 1141
+Ave squared error: 0.6970992759864335
+Epoch: 1142
+Ave squared error: 0.6971182106635879
+Epoch: 1143
+Ave squared error: 0.6983270001924677
+Epoch: 1144
+Ave squared error: 0.7030955015753779
+Epoch: 1145
+Ave squared error: 0.7027656590450355
+Epoch: 1146
+Ave squared error: 0.7180872041857363
+Epoch: 1147
+Ave squared error: 0.7156603120182048
+Epoch: 1148
+Ave squared error: 0.7592689707850745
+Epoch: 1149
+Ave squared error: 0.7430044457260601
+Epoch: 1150
+Ave squared error: 0.8097654680794922
+Epoch: 1151
+Ave squared error: 0.7322085771216006
+Epoch: 1152
+Ave squared error: 0.715114127719281
+Epoch: 1153
+Ave squared error: 0.7252949032793559
+Epoch: 1154
+Ave squared error: 0.7281542535421365
+Epoch: 1155
+Ave squared error: 0.7273187242258184
+Epoch: 1156
+Ave squared error: 0.7468094034440081
+Epoch: 1157
+Ave squared error: 0.7225898196620429
+Epoch: 1158
+Ave squared error: 0.7466363316965342
+Epoch: 1159
+Ave squared error: 0.7104024486433654
+Epoch: 1160
+Ave squared error: 0.7309049352821805
+Epoch: 1161
+Ave squared error: 0.7066128491026985
+Epoch: 1162
+Ave squared error: 0.7344844133236418
+Epoch: 1163
+Ave squared error: 0.7126441011254158
+Epoch: 1164
+Ave squared error: 0.7481270687359423
+Epoch: 1165
+Ave squared error: 0.723431189365846
+Epoch: 1166
+Ave squared error: 0.7478863385156882
+Epoch: 1167
+Ave squared error: 0.7130538020120353
+Epoch: 1168
+Ave squared error: 0.717416752262923
+Epoch: 1169
+Ave squared error: 0.6965740099931328
+Epoch: 1170
+Ave squared error: 0.6953154515023287
+Epoch: 1171
+Ave squared error: 0.6873759171952789
+Epoch: 1172
+Ave squared error: 0.6868478441081938
+Epoch: 1173
+Ave squared error: 0.6826973204343567
+Epoch: 1174
+Ave squared error: 0.6842056202156769
+Epoch: 1175
+Ave squared error: 0.6810673041427208
+Epoch: 1176
+Ave squared error: 0.6847972146322376
+Epoch: 1177
+Ave squared error: 0.6816812825153632
+Epoch: 1178
+Ave squared error: 0.6876072257317676
+Epoch: 1179
+Ave squared error: 0.6833348188974077
+Epoch: 1180
+Ave squared error: 0.6906255434261124
+Epoch: 1181
+Ave squared error: 0.6839908828648634
+Epoch: 1182
+Ave squared error: 0.6911157070189027
+Epoch: 1183
+Ave squared error: 0.6827982083652097
+Epoch: 1184
+Ave squared error: 0.6891941958090894
+Epoch: 1185
+Ave squared error: 0.6814658606836358
+Epoch: 1186
+Ave squared error: 0.6884368911527715
+Epoch: 1187
+Ave squared error: 0.6829385896268206
+Epoch: 1188
+Ave squared error: 0.694031548384038
+Epoch: 1189
+Ave squared error: 0.6901080366842232
+Epoch: 1190
+Ave squared error: 0.7128474638503495
+Epoch: 1191
+Ave squared error: 0.7069562527931302
+Epoch: 1192
+Ave squared error: 0.7612845607338263
+Epoch: 1193
+Ave squared error: 0.7281569670471731
+Epoch: 1194
+Ave squared error: 0.7949092032075348
+Epoch: 1195
+Ave squared error: 0.6960376736329683
+Epoch: 1196
+Ave squared error: 0.68002558275786
+Epoch: 1197
+Ave squared error: 0.6928642189727127
+Epoch: 1198
+Ave squared error: 0.6961677571408893
+Epoch: 1199
+Ave squared error: 0.719493294109085
+Epoch: 1200
+Ave squared error: 0.7273687010551014
+Epoch: 1201
+Ave squared error: 0.735603291410586
+Epoch: 1202
+Ave squared error: 0.7368441516580245
+Epoch: 1203
+Ave squared error: 0.7051604301926426
+Epoch: 1204
+Ave squared error: 0.7048538077121841
+Epoch: 1205
+Ave squared error: 0.6856563583116382
+Epoch: 1206
+Ave squared error: 0.6863072880781909
+Epoch: 1207
+Ave squared error: 0.6740580131412987
+Epoch: 1208
+Ave squared error: 0.6787324736182889
+Epoch: 1209
+Ave squared error: 0.6704458756466779
+Epoch: 1210
+Ave squared error: 0.6956384132050227
+Epoch: 1211
+Ave squared error: 0.7033320873999782
+Epoch: 1212
+Ave squared error: 0.7908221579489995
+Epoch: 1213
+Ave squared error: 0.7463870297184946
+Epoch: 1214
+Ave squared error: 0.7843385549053271
+Epoch: 1215
+Ave squared error: 0.6917806411821406
+Epoch: 1216
+Ave squared error: 0.6909645505378034
+Epoch: 1217
+Ave squared error: 0.670307574002867
+Epoch: 1218
+Ave squared error: 0.6661655819713831
+Epoch: 1219
+Ave squared error: 0.6598244674108483
+Epoch: 1220
+Ave squared error: 0.6574507079511407
+Epoch: 1221
+Ave squared error: 0.6544457708474676
+Epoch: 1222
+Ave squared error: 0.6581943076033238
+Epoch: 1223
+Ave squared error: 0.6571999777992604
+Epoch: 1224
+Ave squared error: 0.6777376648987772
+Epoch: 1225
+Ave squared error: 0.6846725996056082
+Epoch: 1226
+Ave squared error: 0.7242536583473488
+Epoch: 1227
+Ave squared error: 0.6802494194770213
+Epoch: 1228
+Ave squared error: 0.6936410868092331
+Epoch: 1229
+Ave squared error: 0.6628189136369705
+Epoch: 1230
+Ave squared error: 0.677187347091625
+Epoch: 1231
+Ave squared error: 0.6617732705231081
+Epoch: 1232
+Ave squared error: 0.6876532015923916
+Epoch: 1233
+Ave squared error: 0.681962691762151
+Epoch: 1234
+Ave squared error: 0.7234999100865559
+Epoch: 1235
+Ave squared error: 0.7535551837334866
+Epoch: 1236
+Ave squared error: 0.7125241647116993
+Epoch: 1237
+Ave squared error: 0.7308247044331786
+Epoch: 1238
+Ave squared error: 0.6809470715446215
+Epoch: 1239
+Ave squared error: 0.6814821473654349
+Epoch: 1240
+Ave squared error: 0.6695303157541797
+Epoch: 1241
+Ave squared error: 0.6740015157365153
+Epoch: 1242
+Ave squared error: 0.6624524615915309
+Epoch: 1243
+Ave squared error: 0.6772214643218241
+Epoch: 1244
+Ave squared error: 0.6677939304711631
+Epoch: 1245
+Ave squared error: 0.73612302195305
+Epoch: 1246
+Ave squared error: 0.7512767423810939
+Epoch: 1247
+Ave squared error: 0.8551965806625985
+Epoch: 1248
+Ave squared error: 0.7056721097788122
+Epoch: 1249
+Ave squared error: 0.7108684150786758
+Epoch: 1250
+Ave squared error: 0.6571018549666932
+Epoch: 1251
+Ave squared error: 0.6613383904793039
+Epoch: 1252
+Ave squared error: 0.6485803756342338
+Epoch: 1253
+Ave squared error: 0.6466474968433031
+Epoch: 1254
+Ave squared error: 0.6439673453671305
+Epoch: 1255
+Ave squared error: 0.6463927982227984
+Epoch: 1256
+Ave squared error: 0.6434711735313459
+Epoch: 1257
+Ave squared error: 0.6627212156086025
+Epoch: 1258
+Ave squared error: 0.6676151841335255
+Epoch: 1259
+Ave squared error: 0.7283726687246802
+Epoch: 1260
+Ave squared error: 0.6806268308635596
+Epoch: 1261
+Ave squared error: 0.7064501391571091
+Epoch: 1262
+Ave squared error: 0.645296935154505
+Epoch: 1263
+Ave squared error: 0.6557402888449387
+Epoch: 1264
+Ave squared error: 0.6411463219846272
+Epoch: 1265
+Ave squared error: 0.6694912412437938
+Epoch: 1266
+Ave squared error: 0.6543749891584923
+Epoch: 1267
+Ave squared error: 0.6977269512535997
+Epoch: 1268
+Ave squared error: 0.6709089691953966
+Epoch: 1269
+Ave squared error: 0.7172775688422264
+Epoch: 1270
+Ave squared error: 0.7452260395212355
+Epoch: 1271
+Ave squared error: 0.6760491431739258
+Epoch: 1272
+Ave squared error: 0.6698156033011167
+Epoch: 1273
+Ave squared error: 0.6681582851964294
+Epoch: 1274
+Ave squared error: 0.6610485654738832
+Epoch: 1275
+Ave squared error: 0.6664871676766569
+Epoch: 1276
+Ave squared error: 0.6513175422941655
+Epoch: 1277
+Ave squared error: 0.6717543878021012
+Epoch: 1278
+Ave squared error: 0.6497846671765809
+Epoch: 1279
+Ave squared error: 0.6931108328736085
+Epoch: 1280
+Ave squared error: 0.6688972437817682
+Epoch: 1281
+Ave squared error: 0.7494198619725531
+Epoch: 1282
+Ave squared error: 0.69632596846148
+Epoch: 1283
+Ave squared error: 0.7693227835981359
+Epoch: 1284
+Ave squared error: 0.6683789578974292
+Epoch: 1285
+Ave squared error: 0.7056703978128094
+Epoch: 1286
+Ave squared error: 0.6916433100872117
+Epoch: 1287
+Ave squared error: 0.7311509461755633
+Epoch: 1288
+Ave squared error: 0.7794569773353559
+Epoch: 1289
+Ave squared error: 0.7403330207391728
+Epoch: 1290
+Ave squared error: 0.7419656399778352
+Epoch: 1291
+Ave squared error: 0.6931009025530228
+Epoch: 1292
+Ave squared error: 0.6631360704322562
+Epoch: 1293
+Ave squared error: 0.6404119322141294
+Epoch: 1294
+Ave squared error: 0.6458298513434033
+Epoch: 1295
+Ave squared error: 0.6245310950613866
+Epoch: 1296
+Ave squared error: 0.64070736307632
+Epoch: 1297
+Ave squared error: 0.6417807114341204
+Epoch: 1298
+Ave squared error: 0.7025549117363893
+Epoch: 1299
+Ave squared error: 0.6595719897427313
+Epoch: 1300
+Ave squared error: 0.7033866691519065
+Epoch: 1301
+Ave squared error: 0.6249788772708251
+Epoch: 1302
+Ave squared error: 0.6348384341335929
+Epoch: 1303
+Ave squared error: 0.6209366938629318
+Epoch: 1304
+Ave squared error: 0.6553289449142602
+Epoch: 1305
+Ave squared error: 0.6406044731524931
+Epoch: 1306
+Ave squared error: 0.6996242385759143
+Epoch: 1307
+Ave squared error: 0.6641608941021974
+Epoch: 1308
+Ave squared error: 0.7368823289365789
+Epoch: 1309
+Ave squared error: 0.6806535381742677
+Epoch: 1310
+Ave squared error: 0.7354795631868715
+Epoch: 1311
+Ave squared error: 0.608109349763248
+Epoch: 1312
+Ave squared error: 0.6168101841523181
+Epoch: 1313
+Ave squared error: 0.6103025533781068
+Epoch: 1314
+Ave squared error: 0.628600777881864
+Epoch: 1315
+Ave squared error: 0.6335323594175795
+Epoch: 1316
+Ave squared error: 0.6692241833499282
+Epoch: 1317
+Ave squared error: 0.6215826739983806
+Epoch: 1318
+Ave squared error: 0.619448322991324
+Epoch: 1319
+Ave squared error: 0.6526662761384541
+Epoch: 1320
+Ave squared error: 0.6757410479438383
+Epoch: 1321
+Ave squared error: 0.6636950138810704
+Epoch: 1322
+Ave squared error: 0.6536968199293128
+Epoch: 1323
+Ave squared error: 0.6469458936562261
+Epoch: 1324
+Ave squared error: 0.6274855008705514
+Epoch: 1325
+Ave squared error: 0.6163105403422001
+Epoch: 1326
+Ave squared error: 0.631488411101379
+Epoch: 1327
+Ave squared error: 0.623444773998228
+Epoch: 1328
+Ave squared error: 0.7119966806969577
+Epoch: 1329
+Ave squared error: 0.7405817160765144
+Epoch: 1330
+Ave squared error: 0.7728818817987709
+Epoch: 1331
+Ave squared error: 0.6526029891846983
+Epoch: 1332
+Ave squared error: 0.6148888850250613
+Epoch: 1333
+Ave squared error: 0.6015988841484824
+Epoch: 1334
+Ave squared error: 0.6294182452238675
+Epoch: 1335
+Ave squared error: 0.6059470524614197
+Epoch: 1336
+Ave squared error: 0.6468925459492881
+Epoch: 1337
+Ave squared error: 0.6201011445987841
+Epoch: 1338
+Ave squared error: 0.6726418852125476
+Epoch: 1339
+Ave squared error: 0.628137266287207
+Epoch: 1340
+Ave squared error: 0.6812316770623181
+Epoch: 1341
+Ave squared error: 0.6423759109497229
+Epoch: 1342
+Ave squared error: 0.7292777357370857
+Epoch: 1343
+Ave squared error: 0.6780563680957273
+Epoch: 1344
+Ave squared error: 0.790079387608687
+Epoch: 1345
+Ave squared error: 0.701089508997501
+Epoch: 1346
+Ave squared error: 0.6857118317769669
+Epoch: 1347
+Ave squared error: 0.6452567039359207
+Epoch: 1348
+Ave squared error: 0.6059445230591984
+Epoch: 1349
+Ave squared error: 0.6114370686954069
+Epoch: 1350
+Ave squared error: 0.5906895337153196
+Epoch: 1351
+Ave squared error: 0.5960131608329123
+Epoch: 1352
+Ave squared error: 0.5877340316148354
+Epoch: 1353
+Ave squared error: 0.599534008470993
+Epoch: 1354
+Ave squared error: 0.5922234550515978
+Epoch: 1355
+Ave squared error: 0.6153854912029417
+Epoch: 1356
+Ave squared error: 0.6170709902709949
+Epoch: 1357
+Ave squared error: 0.7057848784605979
+Epoch: 1358
+Ave squared error: 0.6704462486445465
+Epoch: 1359
+Ave squared error: 0.7809580338613076
+Epoch: 1360
+Ave squared error: 0.7533052140316092
+Epoch: 1361
+Ave squared error: 0.7290583752998753
+Epoch: 1362
+Ave squared error: 0.8318267826642898
+Epoch: 1363
+Ave squared error: 0.7666564444473903
+Epoch: 1364
+Ave squared error: 0.6981142436489055
+Epoch: 1365
+Ave squared error: 0.6473054370360667
+Epoch: 1366
+Ave squared error: 0.5938827971885546
+Epoch: 1367
+Ave squared error: 0.6020880056844252
+Epoch: 1368
+Ave squared error: 0.594443858192787
+Epoch: 1369
+Ave squared error: 0.6332371683394197
+Epoch: 1370
+Ave squared error: 0.6155987634836624
+Epoch: 1371
+Ave squared error: 0.6734976747026478
+Epoch: 1372
+Ave squared error: 0.5977628703312939
+Epoch: 1373
+Ave squared error: 0.6331534531780534
+Epoch: 1374
+Ave squared error: 0.5985308849920072
+Epoch: 1375
+Ave squared error: 0.6445640603518713
+Epoch: 1376
+Ave squared error: 0.5972494332799952
+Epoch: 1377
+Ave squared error: 0.6450056421196336
+Epoch: 1378
+Ave squared error: 0.6227233592995608
+Epoch: 1379
+Ave squared error: 0.6625150489934466
+Epoch: 1380
+Ave squared error: 0.6461780014655278
+Epoch: 1381
+Ave squared error: 0.6246940505215313
+Epoch: 1382
+Ave squared error: 0.6116101246999353
+Epoch: 1383
+Ave squared error: 0.6193090374640852
+Epoch: 1384
+Ave squared error: 0.597006489821501
+Epoch: 1385
+Ave squared error: 0.6310864182917464
+Epoch: 1386
+Ave squared error: 0.5985439169603762
+Epoch: 1387
+Ave squared error: 0.6500756633819638
+Epoch: 1388
+Ave squared error: 0.6087557646482152
+Epoch: 1389
+Ave squared error: 0.6858541610989477
+Epoch: 1390
+Ave squared error: 0.6508803378985913
+Epoch: 1391
+Ave squared error: 0.7714467675117306
+Epoch: 1392
+Ave squared error: 0.6513368815013275
+Epoch: 1393
+Ave squared error: 0.7242021873201478
+Epoch: 1394
+Ave squared error: 0.7025262485804736
+Epoch: 1395
+Ave squared error: 0.7146504596280878
+Epoch: 1396
+Ave squared error: 0.6904419481273162
+Epoch: 1397
+Ave squared error: 0.6314645893168073
+Epoch: 1398
+Ave squared error: 0.6031055045053703
+Epoch: 1399
+Ave squared error: 0.631677291271406
+Epoch: 1400
+Ave squared error: 0.6314971094496592
+Epoch: 1401
+Ave squared error: 0.6951475103178838
+Epoch: 1402
+Ave squared error: 0.7102914955881992
+Epoch: 1403
+Ave squared error: 0.5969779150183819
+Epoch: 1404
+Ave squared error: 0.5872369502942857
+Epoch: 1405
+Ave squared error: 0.6059460594123707
+Epoch: 1406
+Ave squared error: 0.5731963109651745
+Epoch: 1407
+Ave squared error: 0.6034168161367786
+Epoch: 1408
+Ave squared error: 0.5654920837428792
+Epoch: 1409
+Ave squared error: 0.5971985583043885
+Epoch: 1410
+Ave squared error: 0.5665702810106796
+Epoch: 1411
+Ave squared error: 0.6038380334612773
+Epoch: 1412
+Ave squared error: 0.5617297697914142
+Epoch: 1413
+Ave squared error: 0.599829915624779
+Epoch: 1414
+Ave squared error: 0.5817946069172226
+Epoch: 1415
+Ave squared error: 0.6539043697664139
+Epoch: 1416
+Ave squared error: 0.6473693064830606
+Epoch: 1417
+Ave squared error: 0.7119759716966263
+Epoch: 1418
+Ave squared error: 0.5876192373869716
+Epoch: 1419
+Ave squared error: 0.6049456825101075
+Epoch: 1420
+Ave squared error: 0.6313205310085163
+Epoch: 1421
+Ave squared error: 0.6822612008594435
+Epoch: 1422
+Ave squared error: 0.6452196230792018
+Epoch: 1423
+Ave squared error: 0.671515308526347
+Epoch: 1424
+Ave squared error: 0.643373028132517
+Epoch: 1425
+Ave squared error: 0.6843470940462107
+Epoch: 1426
+Ave squared error: 0.5997170204623933
+Epoch: 1427
+Ave squared error: 0.5739988724483142
+Epoch: 1428
+Ave squared error: 0.62724588371944
+Epoch: 1429
+Ave squared error: 0.626033347897161
+Epoch: 1430
+Ave squared error: 0.7362945012121745
+Epoch: 1431
+Ave squared error: 0.6159824233426342
+Epoch: 1432
+Ave squared error: 0.6808193040389142
+Epoch: 1433
+Ave squared error: 0.6228703555189755
+Epoch: 1434
+Ave squared error: 0.7152535349166722
+Epoch: 1435
+Ave squared error: 0.6647030391579474
+Epoch: 1436
+Ave squared error: 0.6276838752608878
+Epoch: 1437
+Ave squared error: 0.6176264313811783
+Epoch: 1438
+Ave squared error: 0.6148930720604846
+Epoch: 1439
+Ave squared error: 0.596273797561059
+Epoch: 1440
+Ave squared error: 0.6300753579884033
+Epoch: 1441
+Ave squared error: 0.6763046967134712
+Epoch: 1442
+Ave squared error: 0.6466936560553822
+Epoch: 1443
+Ave squared error: 0.6139888550249499
+Epoch: 1444
+Ave squared error: 0.5667971758016787
+Epoch: 1445
+Ave squared error: 0.5756271582797483
+Epoch: 1446
+Ave squared error: 0.5916890318615998
+Epoch: 1447
+Ave squared error: 0.6111371294703376
+Epoch: 1448
+Ave squared error: 0.5875796998452499
+Epoch: 1449
+Ave squared error: 0.5863558503900791
+Epoch: 1450
+Ave squared error: 0.5930324724869906
+Epoch: 1451
+Ave squared error: 0.5811188706348682
+Epoch: 1452
+Ave squared error: 0.6078443683569535
+Epoch: 1453
+Ave squared error: 0.5681867244793379
+Epoch: 1454
+Ave squared error: 0.61252876372378
+Epoch: 1455
+Ave squared error: 0.6526305879576619
+Epoch: 1456
+Ave squared error: 0.7357784781001102
+Epoch: 1457
+Ave squared error: 0.559350389541402
+Epoch: 1458
+Ave squared error: 0.5676666410400087
+Epoch: 1459
+Ave squared error: 0.5616138529925654
+Epoch: 1460
+Ave squared error: 0.6110733939624399
+Epoch: 1461
+Ave squared error: 0.5838267748708207
+Epoch: 1462
+Ave squared error: 0.6142373450540483
+Epoch: 1463
+Ave squared error: 0.6118932484726081
+Epoch: 1464
+Ave squared error: 0.6707936555517352
+Epoch: 1465
+Ave squared error: 0.6173258270453764
+Epoch: 1466
+Ave squared error: 0.736159212944416
+Epoch: 1467
+Ave squared error: 0.6108012414992707
+Epoch: 1468
+Ave squared error: 0.7037725685162095
+Epoch: 1469
+Ave squared error: 0.6054452372433442
+Epoch: 1470
+Ave squared error: 0.6675340805476645
+Epoch: 1471
+Ave squared error: 0.5799430553803286
+Epoch: 1472
+Ave squared error: 0.6335523878663393
+Epoch: 1473
+Ave squared error: 0.649146682365247
+Epoch: 1474
+Ave squared error: 0.5943529213016853
+Epoch: 1475
+Ave squared error: 0.5464743280830158
+Epoch: 1476
+Ave squared error: 0.5635885937065993
+Epoch: 1477
+Ave squared error: 0.5803635182140273
+Epoch: 1478
+Ave squared error: 0.6299605698709317
+Epoch: 1479
+Ave squared error: 0.5407078256220265
+Epoch: 1480
+Ave squared error: 0.5487925503854817
+Epoch: 1481
+Ave squared error: 0.5724525084420106
+Epoch: 1482
+Ave squared error: 0.6041127011796371
+Epoch: 1483
+Ave squared error: 0.6300860250129412
+Epoch: 1484
+Ave squared error: 0.5417498699020051
+Epoch: 1485
+Ave squared error: 0.5544431695668823
+Epoch: 1486
+Ave squared error: 0.5850440407974217
+Epoch: 1487
+Ave squared error: 0.5736415413714645
+Epoch: 1488
+Ave squared error: 0.5985519302403588
+Epoch: 1489
+Ave squared error: 0.5342887124772611
+Epoch: 1490
+Ave squared error: 0.5364129493142917
+Epoch: 1491
+Ave squared error: 0.5381351611596359
+Epoch: 1492
+Ave squared error: 0.5619404438249578
+Epoch: 1493
+Ave squared error: 0.5845055889540444
+Epoch: 1494
+Ave squared error: 0.6043503153721409
+Epoch: 1495
+Ave squared error: 0.6215445662314508
+Epoch: 1496
+Ave squared error: 0.5291191177151874
+Epoch: 1497
+Ave squared error: 0.5592362037339529
+Epoch: 1498
+Ave squared error: 0.5838991056691443
+Epoch: 1499
+Ave squared error: 0.6954075741468229
+Epoch: 1500
+Ave squared error: 0.635096960591808
+Epoch: 1501
+Ave squared error: 0.6894036968524727
+Epoch: 1502
+Ave squared error: 0.5425077066849763
+Epoch: 1503
+Ave squared error: 0.5327342802035154
+Epoch: 1504
+Ave squared error: 0.5505335888049449
+Epoch: 1505
+Ave squared error: 0.5966159820876117
+Epoch: 1506
+Ave squared error: 0.6008092123998198
+Epoch: 1507
+Ave squared error: 0.6121460023089206
+Epoch: 1508
+Ave squared error: 0.5618329149668453
+Epoch: 1509
+Ave squared error: 0.5637225508676296
+Epoch: 1510
+Ave squared error: 0.5639254391975993
+Epoch: 1511
+Ave squared error: 0.5711122803915633
+Epoch: 1512
+Ave squared error: 0.5660450316099465
+Epoch: 1513
+Ave squared error: 0.6363646608286321
+Epoch: 1514
+Ave squared error: 0.678821273829905
+Epoch: 1515
+Ave squared error: 0.8458801492142085
+Epoch: 1516
+Ave squared error: 0.7356425135614434
+Epoch: 1517
+Ave squared error: 0.6831067490499462
+Epoch: 1518
+Ave squared error: 0.5778102422508803
+Epoch: 1519
+Ave squared error: 0.5748512830441109
+Epoch: 1520
+Ave squared error: 0.5655269860603184
+Epoch: 1521
+Ave squared error: 0.5906655303103311
+Epoch: 1522
+Ave squared error: 0.555967346666834
+Epoch: 1523
+Ave squared error: 0.6042526160458017
+Epoch: 1524
+Ave squared error: 0.5875876911470659
+Epoch: 1525
+Ave squared error: 0.6414962006683236
+Epoch: 1526
+Ave squared error: 0.5389524575400779
+Epoch: 1527
+Ave squared error: 0.5523734055082984
+Epoch: 1528
+Ave squared error: 0.5284120391122265
+Epoch: 1529
+Ave squared error: 0.5575626016434925
+Epoch: 1530
+Ave squared error: 0.5429556872396615
+Epoch: 1531
+Ave squared error: 0.6078404088131744
+Epoch: 1532
+Ave squared error: 0.5921870796367875
+Epoch: 1533
+Ave squared error: 0.7129729595087746
+Epoch: 1534
+Ave squared error: 0.6033549171568432
+Epoch: 1535
+Ave squared error: 0.6770832159898144
+Epoch: 1536
+Ave squared error: 0.5430227002841413
+Epoch: 1537
+Ave squared error: 0.5752639435199406
+Epoch: 1538
+Ave squared error: 0.5223060279227013
+Epoch: 1539
+Ave squared error: 0.5751398528209688
+Epoch: 1540
+Ave squared error: 0.6350898336963346
+Epoch: 1541
+Ave squared error: 0.6608648871655239
+Epoch: 1542
+Ave squared error: 0.5870674806690923
+Epoch: 1543
+Ave squared error: 0.5175725513324216
+Epoch: 1544
+Ave squared error: 0.5158891512917061
+Epoch: 1545
+Ave squared error: 0.5275649566082994
+Epoch: 1546
+Ave squared error: 0.6107829130504232
+Epoch: 1547
+Ave squared error: 0.6590947739716694
+Epoch: 1548
+Ave squared error: 0.603810377543241
+Epoch: 1549
+Ave squared error: 0.5530564866055981
+Epoch: 1550
+Ave squared error: 0.5742153036165778
+Epoch: 1551
+Ave squared error: 0.5679702807610799
+Epoch: 1552
+Ave squared error: 0.5561190873161649
+Epoch: 1553
+Ave squared error: 0.535618349515502
+Epoch: 1554
+Ave squared error: 0.5260954984534372
+Epoch: 1555
+Ave squared error: 0.560794174565806
+Epoch: 1556
+Ave squared error: 0.5371586629196816
+Epoch: 1557
+Ave squared error: 0.6092189214232426
+Epoch: 1558
+Ave squared error: 0.5674934463552258
+Epoch: 1559
+Ave squared error: 0.6264357935264899
+Epoch: 1560
+Ave squared error: 0.6395309393400597
+Epoch: 1561
+Ave squared error: 0.6777400945560402
+Epoch: 1562
+Ave squared error: 0.5204042791927856
+Epoch: 1563
+Ave squared error: 0.5043216528550515
+Epoch: 1564
+Ave squared error: 0.5186377628700501
+Epoch: 1565
+Ave squared error: 0.5110218885149306
+Epoch: 1566
+Ave squared error: 0.5476086363027715
+Epoch: 1567
+Ave squared error: 0.5601175518262268
+Epoch: 1568
+Ave squared error: 0.6533200274719435
+Epoch: 1569
+Ave squared error: 0.6096250667242535
+Epoch: 1570
+Ave squared error: 0.5341008795340594
+Epoch: 1571
+Ave squared error: 0.5493465416135681
+Epoch: 1572
+Ave squared error: 0.5230246179704514
+Epoch: 1573
+Ave squared error: 0.5719799663182406
+Epoch: 1574
+Ave squared error: 0.4996239449568882
+Epoch: 1575
+Ave squared error: 0.533058288395749
+Epoch: 1576
+Ave squared error: 0.5092056231662621
+Epoch: 1577
+Ave squared error: 0.5565551828438157
+Epoch: 1578
+Ave squared error: 0.5096232270561777
+Epoch: 1579
+Ave squared error: 0.5500638052175757
+Epoch: 1580
+Ave squared error: 0.5414058465903363
+Epoch: 1581
+Ave squared error: 0.6100955884535393
+Epoch: 1582
+Ave squared error: 0.5860167241258981
+Epoch: 1583
+Ave squared error: 0.6774433397962675
+Epoch: 1584
+Ave squared error: 0.580092078885437
+Epoch: 1585
+Ave squared error: 0.6949506005844043
+Epoch: 1586
+Ave squared error: 0.5646918697185889
+Epoch: 1587
+Ave squared error: 0.6998816671525859
+Epoch: 1588
+Ave squared error: 0.6043863823172289
+Epoch: 1589
+Ave squared error: 0.5096194947445775
+Epoch: 1590
+Ave squared error: 0.4982420920341273
+Epoch: 1591
+Ave squared error: 0.4946835780650628
+Epoch: 1592
+Ave squared error: 0.5218119757471246
+Epoch: 1593
+Ave squared error: 0.5343858432593896
+Epoch: 1594
+Ave squared error: 0.6234447619634158
+Epoch: 1595
+Ave squared error: 0.6229441700847829
+Epoch: 1596
+Ave squared error: 0.5727638826310778
+Epoch: 1597
+Ave squared error: 0.5792176862164103
+Epoch: 1598
+Ave squared error: 0.5586097002862506
+Epoch: 1599
+Ave squared error: 0.598671174077325
+Epoch: 1600
+Ave squared error: 0.599325255371377
+Epoch: 1601
+Ave squared error: 0.6578419741391041
+Epoch: 1602
+Ave squared error: 0.5835544454038427
+Epoch: 1603
+Ave squared error: 0.5092099179634999
+Epoch: 1604
+Ave squared error: 0.5289979523292244
+Epoch: 1605
+Ave squared error: 0.5089480398741595
+Epoch: 1606
+Ave squared error: 0.546091362931743
+Epoch: 1607
+Ave squared error: 0.5338053074047985
+Epoch: 1608
+Ave squared error: 0.5759133460059044
+Epoch: 1609
+Ave squared error: 0.5703431233207751
+Epoch: 1610
+Ave squared error: 0.5532562729465696
+Epoch: 1611
+Ave squared error: 0.5898050479935547
+Epoch: 1612
+Ave squared error: 0.5228733291372751
+Epoch: 1613
+Ave squared error: 0.530074793825612
+Epoch: 1614
+Ave squared error: 0.5283766123619875
+Epoch: 1615
+Ave squared error: 0.5628835720765616
+Epoch: 1616
+Ave squared error: 0.5537207562197575
+Epoch: 1617
+Ave squared error: 0.6006888176949186
+Epoch: 1618
+Ave squared error: 0.5187884717310624
+Epoch: 1619
+Ave squared error: 0.5348388327577518
+Epoch: 1620
+Ave squared error: 0.5147616643102371
+Epoch: 1621
+Ave squared error: 0.5320949574433554
+Epoch: 1622
+Ave squared error: 0.5577764861541283
+Epoch: 1623
+Ave squared error: 0.5888696669734629
+Epoch: 1624
+Ave squared error: 0.6516076340519341
+Epoch: 1625
+Ave squared error: 0.5202890482363629
+Epoch: 1626
+Ave squared error: 0.5289118247281
+Epoch: 1627
+Ave squared error: 0.5197746900426468
+Epoch: 1628
+Ave squared error: 0.5957000472974375
+Epoch: 1629
+Ave squared error: 0.5542501610505053
+Epoch: 1630
+Ave squared error: 0.6462633769247297
+Epoch: 1631
+Ave squared error: 0.5184048785702348
+Epoch: 1632
+Ave squared error: 0.5359191493699954
+Epoch: 1633
+Ave squared error: 0.4882045138389482
+Epoch: 1634
+Ave squared error: 0.5126524025113036
+Epoch: 1635
+Ave squared error: 0.5409606885708654
+Epoch: 1636
+Ave squared error: 0.6443447575624724
+Epoch: 1637
+Ave squared error: 0.6831041344452262
+Epoch: 1638
+Ave squared error: 0.5455195467969765
+Epoch: 1639
+Ave squared error: 0.49861006434099864
+Epoch: 1640
+Ave squared error: 0.5177626451289935
+Epoch: 1641
+Ave squared error: 0.48337454352907944
+Epoch: 1642
+Ave squared error: 0.5025576436927436
+Epoch: 1643
+Ave squared error: 0.4867687371118166
+Epoch: 1644
+Ave squared error: 0.5264562392477504
+Epoch: 1645
+Ave squared error: 0.512996209762893
+Epoch: 1646
+Ave squared error: 0.5666349720137396
+Epoch: 1647
+Ave squared error: 0.5203877590121412
+Epoch: 1648
+Ave squared error: 0.5127632598902931
+Epoch: 1649
+Ave squared error: 0.5041424444564753
+Epoch: 1650
+Ave squared error: 0.5385228152063611
+Epoch: 1651
+Ave squared error: 0.5901738142610248
+Epoch: 1652
+Ave squared error: 0.6350278042294191
+Epoch: 1653
+Ave squared error: 0.5628799997535029
+Epoch: 1654
+Ave squared error: 0.49180301949928634
+Epoch: 1655
+Ave squared error: 0.5073638017241621
+Epoch: 1656
+Ave squared error: 0.5423800580906055
+Epoch: 1657
+Ave squared error: 0.5640336848212817
+Epoch: 1658
+Ave squared error: 0.6339108882521652
+Epoch: 1659
+Ave squared error: 0.4973423982781314
+Epoch: 1660
+Ave squared error: 0.4926094024250132
+Epoch: 1661
+Ave squared error: 0.4837949450171242
+Epoch: 1662
+Ave squared error: 0.4812703063674231
+Epoch: 1663
+Ave squared error: 0.4803417645109707
+Epoch: 1664
+Ave squared error: 0.4786489508580067
+Epoch: 1665
+Ave squared error: 0.48019274454075733
+Epoch: 1666
+Ave squared error: 0.48029033707625124
+Epoch: 1667
+Ave squared error: 0.4828707184050781
+Epoch: 1668
+Ave squared error: 0.4863769953066243
+Epoch: 1669
+Ave squared error: 0.49240307855502125
+Epoch: 1670
+Ave squared error: 0.5153850121895951
+Epoch: 1671
+Ave squared error: 0.5636074050902993
+Epoch: 1672
+Ave squared error: 0.6385942442595685
+Epoch: 1673
+Ave squared error: 0.7053683015272803
+Epoch: 1674
+Ave squared error: 0.640763969916644
+Epoch: 1675
+Ave squared error: 0.6085311195875169
+Epoch: 1676
+Ave squared error: 0.7581677492481691
+Epoch: 1677
+Ave squared error: 0.6338523033317691
+Epoch: 1678
+Ave squared error: 0.679840879927838
+Epoch: 1679
+Ave squared error: 0.4801506355197947
+Epoch: 1680
+Ave squared error: 0.46436236948185833
+Epoch: 1681
+Ave squared error: 0.475352425291973
+Epoch: 1682
+Ave squared error: 0.4983466518263612
+Epoch: 1683
+Ave squared error: 0.5401378244035373
+Epoch: 1684
+Ave squared error: 0.5577396707270471
+Epoch: 1685
+Ave squared error: 0.5794667363633518
+Epoch: 1686
+Ave squared error: 0.5086465911484964
+Epoch: 1687
+Ave squared error: 0.4943339887710968
+Epoch: 1688
+Ave squared error: 0.5056285938155514
+Epoch: 1689
+Ave squared error: 0.5040763428410828
+Epoch: 1690
+Ave squared error: 0.5021554712042634
+Epoch: 1691
+Ave squared error: 0.5389471456214623
+Epoch: 1692
+Ave squared error: 0.5101166245870633
+Epoch: 1693
+Ave squared error: 0.5391202402137245
+Epoch: 1694
+Ave squared error: 0.4975892771882508
+Epoch: 1695
+Ave squared error: 0.5014799344795636
+Epoch: 1696
+Ave squared error: 0.48314985966649365
+Epoch: 1697
+Ave squared error: 0.4949803364697758
+Epoch: 1698
+Ave squared error: 0.4836272953678287
+Epoch: 1699
+Ave squared error: 0.5075997486100183
+Epoch: 1700
+Ave squared error: 0.48798990211105653
+Epoch: 1701
+Ave squared error: 0.5185611115050803
+Epoch: 1702
+Ave squared error: 0.483871019294582
+Epoch: 1703
+Ave squared error: 0.5127174117527498
+Epoch: 1704
+Ave squared error: 0.4768836196764653
+Epoch: 1705
+Ave squared error: 0.504065519110295
+Epoch: 1706
+Ave squared error: 0.47269509518832414
+Epoch: 1707
+Ave squared error: 0.5007680368973916
+Epoch: 1708
+Ave squared error: 0.4707375006291165
+Epoch: 1709
+Ave squared error: 0.5004756030902934
+Epoch: 1710
+Ave squared error: 0.46956030359751033
+Epoch: 1711
+Ave squared error: 0.5009244337458708
+Epoch: 1712
+Ave squared error: 0.4694725589264365
+Epoch: 1713
+Ave squared error: 0.5031185600766153
+Epoch: 1714
+Ave squared error: 0.4742079876412664
+Epoch: 1715
+Ave squared error: 0.5100012701365217
+Epoch: 1716
+Ave squared error: 0.4895963587035346
+Epoch: 1717
+Ave squared error: 0.5138982893247627
+Epoch: 1718
+Ave squared error: 0.502498528081699
+Epoch: 1719
+Ave squared error: 0.49110377017344986
+Epoch: 1720
+Ave squared error: 0.4846454512462951
+Epoch: 1721
+Ave squared error: 0.46712866337830466
+Epoch: 1722
+Ave squared error: 0.47764704557611426
+Epoch: 1723
+Ave squared error: 0.47875758947124003
+Epoch: 1724
+Ave squared error: 0.5263440610710387
+Epoch: 1725
+Ave squared error: 0.5399811766817328
+Epoch: 1726
+Ave squared error: 0.627255889671517
+Epoch: 1727
+Ave squared error: 0.5236338709155643
+Epoch: 1728
+Ave squared error: 0.517605036011621
+Epoch: 1729
+Ave squared error: 0.4977827765706443
+Epoch: 1730
+Ave squared error: 0.5775476108819444
+Epoch: 1731
+Ave squared error: 0.622747447421326
+Epoch: 1732
+Ave squared error: 0.7873131524869225
+Epoch: 1733
+Ave squared error: 0.6844777915620464
+Epoch: 1734
+Ave squared error: 0.6103532416621401
+Epoch: 1735
+Ave squared error: 0.5316612807004921
+Epoch: 1736
+Ave squared error: 0.4822991523505063
+Epoch: 1737
+Ave squared error: 0.45583066086495433
+Epoch: 1738
+Ave squared error: 0.453112113038171
+Epoch: 1739
+Ave squared error: 0.44866483192237605
+Epoch: 1740
+Ave squared error: 0.45656982135104585
+Epoch: 1741
+Ave squared error: 0.45365416542358195
+Epoch: 1742
+Ave squared error: 0.4703590991217099
+Epoch: 1743
+Ave squared error: 0.4659163129485256
+Epoch: 1744
+Ave squared error: 0.49460571309781093
+Epoch: 1745
+Ave squared error: 0.4856890808849946
+Epoch: 1746
+Ave squared error: 0.5347704131258757
+Epoch: 1747
+Ave squared error: 0.5322054324848152
+Epoch: 1748
+Ave squared error: 0.5562015543390049
+Epoch: 1749
+Ave squared error: 0.5254797830574516
+Epoch: 1750
+Ave squared error: 0.46656236292626907
+Epoch: 1751
+Ave squared error: 0.44440025169231673
+Epoch: 1752
+Ave squared error: 0.4334523361344727
+Epoch: 1753
+Ave squared error: 0.4340941410247304
+Epoch: 1754
+Ave squared error: 0.43539308469504784
+Epoch: 1755
+Ave squared error: 0.4461797130106908
+Epoch: 1756
+Ave squared error: 0.450035976392964
+Epoch: 1757
+Ave squared error: 0.47443688468379674
+Epoch: 1758
+Ave squared error: 0.46730343552334197
+Epoch: 1759
+Ave squared error: 0.49704146908253405
+Epoch: 1760
+Ave squared error: 0.4670142350225031
+Epoch: 1761
+Ave squared error: 0.48365270213813855
+Epoch: 1762
+Ave squared error: 0.4553464143940957
+Epoch: 1763
+Ave squared error: 0.4664319510752166
+Epoch: 1764
+Ave squared error: 0.4679647667893336
+Epoch: 1765
+Ave squared error: 0.4919043689279103
+Epoch: 1766
+Ave squared error: 0.5610552692932977
+Epoch: 1767
+Ave squared error: 0.4968985344768379
+Epoch: 1768
+Ave squared error: 0.5473335536183135
+Epoch: 1769
+Ave squared error: 0.43946032034425
+Epoch: 1770
+Ave squared error: 0.4407175165607837
+Epoch: 1771
+Ave squared error: 0.4509741530098093
+Epoch: 1772
+Ave squared error: 0.49218735751751147
+Epoch: 1773
+Ave squared error: 0.5350008488782382
+Epoch: 1774
+Ave squared error: 0.6766554206557183
+Epoch: 1775
+Ave squared error: 0.5167571583546069
+Epoch: 1776
+Ave squared error: 0.6096796387874321
+Epoch: 1777
+Ave squared error: 0.5211014667742974
+Epoch: 1778
+Ave squared error: 0.5431235597769447
+Epoch: 1779
+Ave squared error: 0.5248659381187282
+Epoch: 1780
+Ave squared error: 0.6055132291116636
+Epoch: 1781
+Ave squared error: 0.6591005982288893
+Epoch: 1782
+Ave squared error: 0.4908869883792624
+Epoch: 1783
+Ave squared error: 0.45271974621412575
+Epoch: 1784
+Ave squared error: 0.4356915747605365
+Epoch: 1785
+Ave squared error: 0.42342648773821506
+Epoch: 1786
+Ave squared error: 0.42358770919865796
+Epoch: 1787
+Ave squared error: 0.43197089343690626
+Epoch: 1788
+Ave squared error: 0.4536538644365993
+Epoch: 1789
+Ave squared error: 0.5498316236525841
+Epoch: 1790
+Ave squared error: 0.6277192682394395
+Epoch: 1791
+Ave squared error: 0.6737913366952906
+Epoch: 1792
+Ave squared error: 0.5761430468588429
+Epoch: 1793
+Ave squared error: 0.5273590305734315
+Epoch: 1794
+Ave squared error: 0.5994860241096768
+Epoch: 1795
+Ave squared error: 0.5552857589738994
+Epoch: 1796
+Ave squared error: 0.6442480686450526
+Epoch: 1797
+Ave squared error: 0.5321146205897049
+Epoch: 1798
+Ave squared error: 0.5412134598428682
+Epoch: 1799
+Ave squared error: 0.45676682669034757
+Epoch: 1800
+Ave squared error: 0.4544434824013339
+Epoch: 1801
+Ave squared error: 0.43629762632680075
+Epoch: 1802
+Ave squared error: 0.447631343767718
+Epoch: 1803
+Ave squared error: 0.44718422350465287
+Epoch: 1804
+Ave squared error: 0.46445710101641874
+Epoch: 1805
+Ave squared error: 0.47669011066720895
+Epoch: 1806
+Ave squared error: 0.4777417199650057
+Epoch: 1807
+Ave squared error: 0.49861024215127603
+Epoch: 1808
+Ave squared error: 0.46648745802799135
+Epoch: 1809
+Ave squared error: 0.484646356321566
+Epoch: 1810
+Ave squared error: 0.44677962405807187
+Epoch: 1811
+Ave squared error: 0.48237625381077454
+Epoch: 1812
+Ave squared error: 0.4721196860228444
+Epoch: 1813
+Ave squared error: 0.5587427196036824
+Epoch: 1814
+Ave squared error: 0.5593485072626254
+Epoch: 1815
+Ave squared error: 0.5140776891004605
+Epoch: 1816
+Ave squared error: 0.4713266090330568
+Epoch: 1817
+Ave squared error: 0.4419242461446759
+Epoch: 1818
+Ave squared error: 0.427585483375987
+Epoch: 1819
+Ave squared error: 0.43629966523471825
+Epoch: 1820
+Ave squared error: 0.42158907855677447
+Epoch: 1821
+Ave squared error: 0.436005086239599
+Epoch: 1822
+Ave squared error: 0.4221141215170227
+Epoch: 1823
+Ave squared error: 0.44430620899929163
+Epoch: 1824
+Ave squared error: 0.42981634810868646
+Epoch: 1825
+Ave squared error: 0.46423632540047133
+Epoch: 1826
+Ave squared error: 0.44760070163665083
+Epoch: 1827
+Ave squared error: 0.48832104977620805
+Epoch: 1828
+Ave squared error: 0.4709179373576895
+Epoch: 1829
+Ave squared error: 0.48638118880541786
+Epoch: 1830
+Ave squared error: 0.4720304835250459
+Epoch: 1831
+Ave squared error: 0.4549410242985139
+Epoch: 1832
+Ave squared error: 0.44520271764221636
+Epoch: 1833
+Ave squared error: 0.4298019977869054
+Epoch: 1834
+Ave squared error: 0.4247036174073827
+Epoch: 1835
+Ave squared error: 0.4200970819243639
+Epoch: 1836
+Ave squared error: 0.4184198982231638
+Epoch: 1837
+Ave squared error: 0.42226666706503285
+Epoch: 1838
+Ave squared error: 0.4236850916676888
+Epoch: 1839
+Ave squared error: 0.43770498423949966
+Epoch: 1840
+Ave squared error: 0.43923422675548796
+Epoch: 1841
+Ave squared error: 0.46830980541364836
+Epoch: 1842
+Ave squared error: 0.4526748645165251
+Epoch: 1843
+Ave squared error: 0.4895841385445792
+Epoch: 1844
+Ave squared error: 0.4391282412669818
+Epoch: 1845
+Ave squared error: 0.46394404816791557
+Epoch: 1846
+Ave squared error: 0.42329722779379236
+Epoch: 1847
+Ave squared error: 0.4474793308275173
+Epoch: 1848
+Ave squared error: 0.44537068392426193
+Epoch: 1849
+Ave squared error: 0.512419674053155
+Epoch: 1850
+Ave squared error: 0.5562271562175167
+Epoch: 1851
+Ave squared error: 0.7060684872522632
+Epoch: 1852
+Ave squared error: 0.5004133674606127
+Epoch: 1853
+Ave squared error: 0.49175276060522416
+Epoch: 1854
+Ave squared error: 0.5114061654151508
+Epoch: 1855
+Ave squared error: 0.4870418045269706
+Epoch: 1856
+Ave squared error: 0.5402892720343635
+Epoch: 1857
+Ave squared error: 0.48402830982865974
+Epoch: 1858
+Ave squared error: 0.5024507434895061
+Epoch: 1859
+Ave squared error: 0.47563043345272754
+Epoch: 1860
+Ave squared error: 0.4550772398629655
+Epoch: 1861
+Ave squared error: 0.46066945113417557
+Epoch: 1862
+Ave squared error: 0.44610299928367114
+Epoch: 1863
+Ave squared error: 0.47048302027228606
+Epoch: 1864
+Ave squared error: 0.5294579873819507
+Epoch: 1865
+Ave squared error: 0.5375720103268433
+Epoch: 1866
+Ave squared error: 0.5078625647910281
+Epoch: 1867
+Ave squared error: 0.42751132176188933
+Epoch: 1868
+Ave squared error: 0.4033955868955553
+Epoch: 1869
+Ave squared error: 0.39043535782367855
+Epoch: 1870
+Ave squared error: 0.39020490130952
+Epoch: 1871
+Ave squared error: 0.38791793258212626
+Epoch: 1872
+Ave squared error: 0.3954502000024798
+Epoch: 1873
+Ave squared error: 0.4022795467804397
+Epoch: 1874
+Ave squared error: 0.41689796362343706
+Epoch: 1875
+Ave squared error: 0.44186849288174895
+Epoch: 1876
+Ave squared error: 0.4483878007583507
+Epoch: 1877
+Ave squared error: 0.47877671352343304
+Epoch: 1878
+Ave squared error: 0.44960183936155057
+Epoch: 1879
+Ave squared error: 0.4507773243954059
+Epoch: 1880
+Ave squared error: 0.4286936564777335
+Epoch: 1881
+Ave squared error: 0.419466451573325
+Epoch: 1882
+Ave squared error: 0.42866900122048945
+Epoch: 1883
+Ave squared error: 0.4205355329940978
+Epoch: 1884
+Ave squared error: 0.4598775010216686
+Epoch: 1885
+Ave squared error: 0.439793517632013
+Epoch: 1886
+Ave squared error: 0.4961005084841315
+Epoch: 1887
+Ave squared error: 0.46137297913417924
+Epoch: 1888
+Ave squared error: 0.5315749013304878
+Epoch: 1889
+Ave squared error: 0.5443349637865337
+Epoch: 1890
+Ave squared error: 0.6863864590604286
+Epoch: 1891
+Ave squared error: 0.4573045525343533
+Epoch: 1892
+Ave squared error: 0.493916414772819
+Epoch: 1893
+Ave squared error: 0.43450126948813494
+Epoch: 1894
+Ave squared error: 0.46386338550371353
+Epoch: 1895
+Ave squared error: 0.418042113194594
+Epoch: 1896
+Ave squared error: 0.4298041742185586
+Epoch: 1897
+Ave squared error: 0.4078449079871617
+Epoch: 1898
+Ave squared error: 0.4173212775841891
+Epoch: 1899
+Ave squared error: 0.4157930415309174
+Epoch: 1900
+Ave squared error: 0.42200277955309456
+Epoch: 1901
+Ave squared error: 0.43220267747210195
+Epoch: 1902
+Ave squared error: 0.425423003487763
+Epoch: 1903
+Ave squared error: 0.4391935258506191
+Epoch: 1904
+Ave squared error: 0.42497707353565023
+Epoch: 1905
+Ave squared error: 0.44563206696857727
+Epoch: 1906
+Ave squared error: 0.4491752873109922
+Epoch: 1907
+Ave squared error: 0.49858744349891126
+Epoch: 1908
+Ave squared error: 0.5074024083809695
+Epoch: 1909
+Ave squared error: 0.5717140881696388
+Epoch: 1910
+Ave squared error: 0.4926003043411852
+Epoch: 1911
+Ave squared error: 0.497202271342208
+Epoch: 1912
+Ave squared error: 0.5541228082511833
+Epoch: 1913
+Ave squared error: 0.423534527222611
+Epoch: 1914
+Ave squared error: 0.4065081074676418
+Epoch: 1915
+Ave squared error: 0.38377588578072724
+Epoch: 1916
+Ave squared error: 0.39710256222560125
+Epoch: 1917
+Ave squared error: 0.4195324967160804
+Epoch: 1918
+Ave squared error: 0.4676469173135043
+Epoch: 1919
+Ave squared error: 0.511505830028072
+Epoch: 1920
+Ave squared error: 0.5678298797614678
+Epoch: 1921
+Ave squared error: 0.47128987125826016
+Epoch: 1922
+Ave squared error: 0.47350786143337176
+Epoch: 1923
+Ave squared error: 0.4328119752028226
+Epoch: 1924
+Ave squared error: 0.46812105571752805
+Epoch: 1925
+Ave squared error: 0.49539482234196547
+Epoch: 1926
+Ave squared error: 0.6269933655639055
+Epoch: 1927
+Ave squared error: 0.6019638662076993
+Epoch: 1928
+Ave squared error: 0.5744779106440345
+Epoch: 1929
+Ave squared error: 0.5335519582436798
+Epoch: 1930
+Ave squared error: 0.5638590820921388
+Epoch: 1931
+Ave squared error: 0.4053492788484894
+Epoch: 1932
+Ave squared error: 0.37147978800582104
+Epoch: 1933
+Ave squared error: 0.3672583013773157
+Epoch: 1934
+Ave squared error: 0.3592288686291588
+Epoch: 1935
+Ave squared error: 0.3614763045669442
+Epoch: 1936
+Ave squared error: 0.35657058978413636
+Epoch: 1937
+Ave squared error: 0.36097464794899475
+Epoch: 1938
+Ave squared error: 0.35862661418457853
+Epoch: 1939
+Ave squared error: 0.3656246798396205
+Epoch: 1940
+Ave squared error: 0.36781015824193597
+Epoch: 1941
+Ave squared error: 0.3779161724659001
+Epoch: 1942
+Ave squared error: 0.3891403864303892
+Epoch: 1943
+Ave squared error: 0.40034079349577306
+Epoch: 1944
+Ave squared error: 0.4288562048664585
+Epoch: 1945
+Ave squared error: 0.43859707457820585
+Epoch: 1946
+Ave squared error: 0.4896180085459999
+Epoch: 1947
+Ave squared error: 0.4915295666157228
+Epoch: 1948
+Ave squared error: 0.5295186982572125
+Epoch: 1949
+Ave squared error: 0.5062201702207685
+Epoch: 1950
+Ave squared error: 0.6225433276438719
+Epoch: 1951
+Ave squared error: 0.5288714999474325
+Epoch: 1952
+Ave squared error: 0.6152992574198225
+Epoch: 1953
+Ave squared error: 0.5839443344350602
+Epoch: 1954
+Ave squared error: 0.42667031659311416
+Epoch: 1955
+Ave squared error: 0.443567734422733
+Epoch: 1956
+Ave squared error: 0.44785086301004406
+Epoch: 1957
+Ave squared error: 0.43323288586150976
+Epoch: 1958
+Ave squared error: 0.40497871111557976
+Epoch: 1959
+Ave squared error: 0.375663829803254
+Epoch: 1960
+Ave squared error: 0.36932575110476495
+Epoch: 1961
+Ave squared error: 0.3622626736598919
+Epoch: 1962
+Ave squared error: 0.36660962837492606
+Epoch: 1963
+Ave squared error: 0.3676592161390371
+Epoch: 1964
+Ave squared error: 0.37714199212512645
+Epoch: 1965
+Ave squared error: 0.3875559251983928
+Epoch: 1966
+Ave squared error: 0.3963255597780785
+Epoch: 1967
+Ave squared error: 0.416223585829116
+Epoch: 1968
+Ave squared error: 0.4119562095900435
+Epoch: 1969
+Ave squared error: 0.4266413639111295
+Epoch: 1970
+Ave squared error: 0.4116443298667768
+Epoch: 1971
+Ave squared error: 0.41522491814521423
+Epoch: 1972
+Ave squared error: 0.4044602698620026
+Epoch: 1973
+Ave squared error: 0.4186537954780459
+Epoch: 1974
+Ave squared error: 0.43272599548336343
+Epoch: 1975
+Ave squared error: 0.5014088315780192
+Epoch: 1976
+Ave squared error: 0.6477474877352155
+Epoch: 1977
+Ave squared error: 0.48380455553005974
+Epoch: 1978
+Ave squared error: 0.4932399909454816
+Epoch: 1979
+Ave squared error: 0.4009791157375205
+Epoch: 1980
+Ave squared error: 0.38880681945534745
+Epoch: 1981
+Ave squared error: 0.42340628575103356
+Epoch: 1982
+Ave squared error: 0.4177970968787852
+Epoch: 1983
+Ave squared error: 0.4634134702927947
+Epoch: 1984
+Ave squared error: 0.4697136935087284
+Epoch: 1985
+Ave squared error: 0.4953114316770605
+Epoch: 1986
+Ave squared error: 0.4661133189332664
+Epoch: 1987
+Ave squared error: 0.45136530348435505
+Epoch: 1988
+Ave squared error: 0.39941151741018177
+Epoch: 1989
+Ave squared error: 0.3850946999216417
+Epoch: 1990
+Ave squared error: 0.3616546893326451
+Epoch: 1991
+Ave squared error: 0.35503590912577326
+Epoch: 1992
+Ave squared error: 0.3463689993139722
+Epoch: 1993
+Ave squared error: 0.34277609689930905
+Epoch: 1994
+Ave squared error: 0.3415607391398355
+Epoch: 1995
+Ave squared error: 0.34128535078885613
+Epoch: 1996
+Ave squared error: 0.3590425081281343
+Epoch: 1997
+Ave squared error: 0.38790395688601553
+Epoch: 1998
+Ave squared error: 0.5331077651260382
+Epoch: 1999
+Ave squared error: 0.6057767049554806
+Epoch: 2000
+Ave squared error: 0.7082018580532965
+Epoch: 2001
+Ave squared error: 0.5217848614878207
+Epoch: 2002
+Ave squared error: 0.6124747473235426
+Epoch: 2003
+Ave squared error: 0.8936255912354815
+Epoch: 2004
+Ave squared error: 0.8083167377641367
+Epoch: 2005
+Ave squared error: 0.8866803351402543
+Epoch: 2006
+Ave squared error: 0.8989730388928537
+Epoch: 2007
+Ave squared error: 0.9390227605703012
+Epoch: 2008
+Ave squared error: 0.9238297236170284
+Epoch: 2009
+Ave squared error: 0.7900320547766377
+Epoch: 2010
+Ave squared error: 0.6059535764701984
+Epoch: 2011
+Ave squared error: 0.5613418579011893
+Epoch: 2012
+Ave squared error: 0.5151607052240184
+Epoch: 2013
+Ave squared error: 0.4462419044688162
+Epoch: 2014
+Ave squared error: 0.4044360403868351
+Epoch: 2015
+Ave squared error: 0.3842364063773023
+Epoch: 2016
+Ave squared error: 0.36942162908435244
+Epoch: 2017
+Ave squared error: 0.362591095030884
+Epoch: 2018
+Ave squared error: 0.35426566685300637
+Epoch: 2019
+Ave squared error: 0.35014536010296093
+Epoch: 2020
+Ave squared error: 0.3442753482983711
+Epoch: 2021
+Ave squared error: 0.3414389344231559
+Epoch: 2022
+Ave squared error: 0.3368632756567658
+Epoch: 2023
+Ave squared error: 0.3350849438670753
+Epoch: 2024
+Ave squared error: 0.33121054651481247
+Epoch: 2025
+Ave squared error: 0.3306052322370465
+Epoch: 2026
+Ave squared error: 0.3270038076256165
+Epoch: 2027
+Ave squared error: 0.3284375018401221
+Epoch: 2028
+Ave squared error: 0.3253013340153393
+Epoch: 2029
+Ave squared error: 0.3327414678038375
+Epoch: 2030
+Ave squared error: 0.3351620491283224
+Epoch: 2031
+Ave squared error: 0.3676983254882002
+Epoch: 2032
+Ave squared error: 0.4074075641589709
+Epoch: 2033
+Ave squared error: 0.5317793699020498
+Epoch: 2034
+Ave squared error: 0.560795224015715
+Epoch: 2035
+Ave squared error: 0.6129523717359043
+Epoch: 2036
+Ave squared error: 0.43235290086018685
+Epoch: 2037
+Ave squared error: 0.3883192744023279
+Epoch: 2038
+Ave squared error: 0.39947590079542356
+Epoch: 2039
+Ave squared error: 0.3521386505924964
+Epoch: 2040
+Ave squared error: 0.3518325196170454
+Epoch: 2041
+Ave squared error: 0.33948931016984923
+Epoch: 2042
+Ave squared error: 0.34057776778788507
+Epoch: 2043
+Ave squared error: 0.3413684529801124
+Epoch: 2044
+Ave squared error: 0.3506246549790877
+Epoch: 2045
+Ave squared error: 0.35809329592655503
+Epoch: 2046
+Ave squared error: 0.38868222515356576
+Epoch: 2047
+Ave squared error: 0.39682226866398285
+Epoch: 2048
+Ave squared error: 0.4660306946702305
+Epoch: 2049
+Ave squared error: 0.4354738275654924
+Epoch: 2050
+Ave squared error: 0.5061985256686767
+Epoch: 2051
+Ave squared error: 0.43642793347260106
+Epoch: 2052
+Ave squared error: 0.47117031306438667
+Epoch: 2053
+Ave squared error: 0.44552868593818584
+Epoch: 2054
+Ave squared error: 0.4866634933765558
+Epoch: 2055
+Ave squared error: 0.43727477784699886
+Epoch: 2056
+Ave squared error: 0.4276437601265365
+Epoch: 2057
+Ave squared error: 0.39904736307383654
+Epoch: 2058
+Ave squared error: 0.37898933209917635
+Epoch: 2059
+Ave squared error: 0.36375848916232806
+Epoch: 2060
+Ave squared error: 0.3585846776638264
+Epoch: 2061
+Ave squared error: 0.3786572456047316
+Epoch: 2062
+Ave squared error: 0.3876067596899413
+Epoch: 2063
+Ave squared error: 0.4187694876425069
+Epoch: 2064
+Ave squared error: 0.42719461786655877
+Epoch: 2065
+Ave squared error: 0.44977123353299164
+Epoch: 2066
+Ave squared error: 0.44780376996052196
+Epoch: 2067
+Ave squared error: 0.4838551206816303
+Epoch: 2068
+Ave squared error: 0.43588767065744977
+Epoch: 2069
+Ave squared error: 0.44736161965249377
+Epoch: 2070
+Ave squared error: 0.38890232597324964
+Epoch: 2071
+Ave squared error: 0.38228786937512454
+Epoch: 2072
+Ave squared error: 0.3684524082848691
+Epoch: 2073
+Ave squared error: 0.3668409164152394
+Epoch: 2074
+Ave squared error: 0.376115917624637
+Epoch: 2075
+Ave squared error: 0.38217117905325454
+Epoch: 2076
+Ave squared error: 0.4027984475339923
+Epoch: 2077
+Ave squared error: 0.4178343357290621
+Epoch: 2078
+Ave squared error: 0.41482760875938535
+Epoch: 2079
+Ave squared error: 0.4200526665120082
+Epoch: 2080
+Ave squared error: 0.3929699086569967
+Epoch: 2081
+Ave squared error: 0.38734030439317385
+Epoch: 2082
+Ave squared error: 0.38479753736213446
+Epoch: 2083
+Ave squared error: 0.3843824876956232
+Epoch: 2084
+Ave squared error: 0.40453082927916917
+Epoch: 2085
+Ave squared error: 0.39979830978557884
+Epoch: 2086
+Ave squared error: 0.41678431792401177
+Epoch: 2087
+Ave squared error: 0.3994846109232921
+Epoch: 2088
+Ave squared error: 0.4029090353542115
+Epoch: 2089
+Ave squared error: 0.40839084740548026
+Epoch: 2090
+Ave squared error: 0.4213979644344021
+Epoch: 2091
+Ave squared error: 0.5289418313860015
+Epoch: 2092
+Ave squared error: 0.5435351236632456
+Epoch: 2093
+Ave squared error: 0.6531607494887375
+Epoch: 2094
+Ave squared error: 0.5669994703557181
+Epoch: 2095
+Ave squared error: 0.5225412015999816
+Epoch: 2096
+Ave squared error: 0.5198972778776735
+Epoch: 2097
+Ave squared error: 0.46686193439179297
+Epoch: 2098
+Ave squared error: 0.47195330689628795
+Epoch: 2099
+Ave squared error: 0.4604297865986643
+Epoch: 2100
+Ave squared error: 0.4645870670830675
+Epoch: 2101
+Ave squared error: 0.402389939081192
+Epoch: 2102
+Ave squared error: 0.3613267091918809
+Epoch: 2103
+Ave squared error: 0.34368964893626913
+Epoch: 2104
+Ave squared error: 0.33509583287901307
+Epoch: 2105
+Ave squared error: 0.326002041990096
+Epoch: 2106
+Ave squared error: 0.3273838919056378
+Epoch: 2107
+Ave squared error: 0.3220800102891027
+Epoch: 2108
+Ave squared error: 0.32608880810973845
+Epoch: 2109
+Ave squared error: 0.3239543671174331
+Epoch: 2110
+Ave squared error: 0.32854643171730674
+Epoch: 2111
+Ave squared error: 0.3298280629252662
+Epoch: 2112
+Ave squared error: 0.333540478350057
+Epoch: 2113
+Ave squared error: 0.33837375851275703
+Epoch: 2114
+Ave squared error: 0.34025731731071174
+Epoch: 2115
+Ave squared error: 0.3492162511516435
+Epoch: 2116
+Ave squared error: 0.35258178375690197
+Epoch: 2117
+Ave squared error: 0.3700522634558277
+Epoch: 2118
+Ave squared error: 0.39364895745732953
+Epoch: 2119
+Ave squared error: 0.41820406983799535
+Epoch: 2120
+Ave squared error: 0.49180220802319513
+Epoch: 2121
+Ave squared error: 0.4208097819792839
+Epoch: 2122
+Ave squared error: 0.46494501202344035
+Epoch: 2123
+Ave squared error: 0.36138223751978776
+Epoch: 2124
+Ave squared error: 0.3602895829954962
+Epoch: 2125
+Ave squared error: 0.35737591054384327
+Epoch: 2126
+Ave squared error: 0.3623026442032805
+Epoch: 2127
+Ave squared error: 0.3841763488994459
+Epoch: 2128
+Ave squared error: 0.4036267434631025
+Epoch: 2129
+Ave squared error: 0.43899452571182557
+Epoch: 2130
+Ave squared error: 0.45617240712719537
+Epoch: 2131
+Ave squared error: 0.4671738097569542
+Epoch: 2132
+Ave squared error: 0.4137440421472412
+Epoch: 2133
+Ave squared error: 0.38866575403617143
+Epoch: 2134
+Ave squared error: 0.34512447731008067
+Epoch: 2135
+Ave squared error: 0.33238065140842127
+Epoch: 2136
+Ave squared error: 0.32985570739477527
+Epoch: 2137
+Ave squared error: 0.3314539333435969
+Epoch: 2138
+Ave squared error: 0.34363758579464254
+Epoch: 2139
+Ave squared error: 0.3604223718238461
+Epoch: 2140
+Ave squared error: 0.37148847233504373
+Epoch: 2141
+Ave squared error: 0.41524981343726897
+Epoch: 2142
+Ave squared error: 0.39360300819617117
+Epoch: 2143
+Ave squared error: 0.4805891611362138
+Epoch: 2144
+Ave squared error: 0.42684408131102025
+Epoch: 2145
+Ave squared error: 0.4934696506178274
+Epoch: 2146
+Ave squared error: 0.5390123219117503
+Epoch: 2147
+Ave squared error: 0.6026052849281073
+Epoch: 2148
+Ave squared error: 0.6743042924227218
+Epoch: 2149
+Ave squared error: 0.6400099438112524
+Epoch: 2150
+Ave squared error: 0.5171439901113546
+Epoch: 2151
+Ave squared error: 0.3652830396419236
+Epoch: 2152
+Ave squared error: 0.34516319605326073
+Epoch: 2153
+Ave squared error: 0.32310043592163107
+Epoch: 2154
+Ave squared error: 0.3300408554709032
+Epoch: 2155
+Ave squared error: 0.3237984945417071
+Epoch: 2156
+Ave squared error: 0.3350396454024434
+Epoch: 2157
+Ave squared error: 0.3361084001641278
+Epoch: 2158
+Ave squared error: 0.3468915543621583
+Epoch: 2159
+Ave squared error: 0.3560802932621631
+Epoch: 2160
+Ave squared error: 0.35798230540920406
+Epoch: 2161
+Ave squared error: 0.3719105302940753
+Epoch: 2162
+Ave squared error: 0.362211950433983
+Epoch: 2163
+Ave squared error: 0.37941055908777205
+Epoch: 2164
+Ave squared error: 0.36450823257126763
+Epoch: 2165
+Ave squared error: 0.38652674728888764
+Epoch: 2166
+Ave squared error: 0.38201008576464524
+Epoch: 2167
+Ave squared error: 0.40777098709523274
+Epoch: 2168
+Ave squared error: 0.453090127192354
+Epoch: 2169
+Ave squared error: 0.41998919455939976
+Epoch: 2170
+Ave squared error: 0.46449351415964996
+Epoch: 2171
+Ave squared error: 0.3486020915582123
+Epoch: 2172
+Ave squared error: 0.3387781224953432
+Epoch: 2173
+Ave squared error: 0.3070837781994257
+Epoch: 2174
+Ave squared error: 0.30535589575068856
+Epoch: 2175
+Ave squared error: 0.2958186133397052
+Epoch: 2176
+Ave squared error: 0.2992041650066198
+Epoch: 2177
+Ave squared error: 0.2940380468451891
+Epoch: 2178
+Ave squared error: 0.3022838483241653
+Epoch: 2179
+Ave squared error: 0.3006410611423094
+Epoch: 2180
+Ave squared error: 0.3194743625024332
+Epoch: 2181
+Ave squared error: 0.3231939390060785
+Epoch: 2182
+Ave squared error: 0.3691100854828049
+Epoch: 2183
+Ave squared error: 0.37406219367537175
+Epoch: 2184
+Ave squared error: 0.4601522566347529
+Epoch: 2185
+Ave squared error: 0.44785730795277706
+Epoch: 2186
+Ave squared error: 0.5444063646209288
+Epoch: 2187
+Ave squared error: 0.5708829853161453
+Epoch: 2188
+Ave squared error: 0.6856108178295002
+Epoch: 2189
+Ave squared error: 0.4120316469104263
+Epoch: 2190
+Ave squared error: 0.3229626393932962
+Epoch: 2191
+Ave squared error: 0.29697970734322443
+Epoch: 2192
+Ave squared error: 0.30072541530491614
+Epoch: 2193
+Ave squared error: 0.2912578480303798
+Epoch: 2194
+Ave squared error: 0.30261966748079816
+Epoch: 2195
+Ave squared error: 0.3017005386551296
+Epoch: 2196
+Ave squared error: 0.3228892617423643
+Epoch: 2197
+Ave squared error: 0.3376852250287309
+Epoch: 2198
+Ave squared error: 0.368062586019557
+Epoch: 2199
+Ave squared error: 0.39065909569921237
+Epoch: 2200
+Ave squared error: 0.4107566528795635
+Epoch: 2201
+Ave squared error: 0.4016140865467877
+Epoch: 2202
+Ave squared error: 0.40047019317118726
+Epoch: 2203
+Ave squared error: 0.37693233797858045
+Epoch: 2204
+Ave squared error: 0.36916874757184986
+Epoch: 2205
+Ave squared error: 0.3510656558939312
+Epoch: 2206
+Ave squared error: 0.34246536709984776
+Epoch: 2207
+Ave squared error: 0.32630724564576946
+Epoch: 2208
+Ave squared error: 0.3219724306775381
+Epoch: 2209
+Ave squared error: 0.3122593497688336
+Epoch: 2210
+Ave squared error: 0.31205939530987664
+Epoch: 2211
+Ave squared error: 0.31733073584722693
+Epoch: 2212
+Ave squared error: 0.3155261743344769
+Epoch: 2213
+Ave squared error: 0.342507997209459
+Epoch: 2214
+Ave squared error: 0.32178212657493066
+Epoch: 2215
+Ave squared error: 0.3589071896912659
+Epoch: 2216
+Ave squared error: 0.31525347465260795
+Epoch: 2217
+Ave squared error: 0.33902309780143686
+Epoch: 2218
+Ave squared error: 0.3219595562802361
+Epoch: 2219
+Ave squared error: 0.3367436382358846
+Epoch: 2220
+Ave squared error: 0.36655793515980095
+Epoch: 2221
+Ave squared error: 0.40303827829615796
+Epoch: 2222
+Ave squared error: 0.4657790511921737
+Epoch: 2223
+Ave squared error: 0.5824017621315896
+Epoch: 2224
+Ave squared error: 0.46657714214172047
+Epoch: 2225
+Ave squared error: 0.48937280671508715
+Epoch: 2226
+Ave squared error: 0.5249072498028987
+Epoch: 2227
+Ave squared error: 0.5934194919539596
+Epoch: 2228
+Ave squared error: 0.42557696625805186
+Epoch: 2229
+Ave squared error: 0.4520443127452099
+Epoch: 2230
+Ave squared error: 0.4750723944905149
+Epoch: 2231
+Ave squared error: 0.44956706558864384
+Epoch: 2232
+Ave squared error: 0.41649106650658907
+Epoch: 2233
+Ave squared error: 0.38435564453359633
+Epoch: 2234
+Ave squared error: 0.38154664352857814
+Epoch: 2235
+Ave squared error: 0.3555860257143072
+Epoch: 2236
+Ave squared error: 0.35615113496605677
+Epoch: 2237
+Ave squared error: 0.33487092983273553
+Epoch: 2238
+Ave squared error: 0.33039242692672766
+Epoch: 2239
+Ave squared error: 0.31569241195617703
+Epoch: 2240
+Ave squared error: 0.3104095587500741
+Epoch: 2241
+Ave squared error: 0.3086625756622382
+Epoch: 2242
+Ave squared error: 0.3043396516352149
+Epoch: 2243
+Ave squared error: 0.3257730746624188
+Epoch: 2244
+Ave squared error: 0.32282432834927577
+Epoch: 2245
+Ave squared error: 0.3926571292027509
+Epoch: 2246
+Ave squared error: 0.3897484380240593
+Epoch: 2247
+Ave squared error: 0.4637548933061514
+Epoch: 2248
+Ave squared error: 0.41694772908851024
+Epoch: 2249
+Ave squared error: 0.3725448874424024
+Epoch: 2250
+Ave squared error: 0.34871557694975164
+Epoch: 2251
+Ave squared error: 0.3204167812432356
+Epoch: 2252
+Ave squared error: 0.3252061182200744
+Epoch: 2253
+Ave squared error: 0.3075899294810977
+Epoch: 2254
+Ave squared error: 0.31204161500820776
+Epoch: 2255
+Ave squared error: 0.29834372158821876
+Epoch: 2256
+Ave squared error: 0.30524785316823205
+Epoch: 2257
+Ave squared error: 0.2970890175896354
+Epoch: 2258
+Ave squared error: 0.31281855819000925
+Epoch: 2259
+Ave squared error: 0.31222895871008166
+Epoch: 2260
+Ave squared error: 0.3369440375191612
+Epoch: 2261
+Ave squared error: 0.34147940676385147
+Epoch: 2262
+Ave squared error: 0.3610850841024761
+Epoch: 2263
+Ave squared error: 0.35525730303195646
+Epoch: 2264
+Ave squared error: 0.36747873686952254
+Epoch: 2265
+Ave squared error: 0.35095229372991
+Epoch: 2266
+Ave squared error: 0.3826757226143142
+Epoch: 2267
+Ave squared error: 0.35898067159717295
+Epoch: 2268
+Ave squared error: 0.4059802751302523
+Epoch: 2269
+Ave squared error: 0.35659766057321457
+Epoch: 2270
+Ave squared error: 0.390916455177717
+Epoch: 2271
+Ave squared error: 0.3413276399905774
+Epoch: 2272
+Ave squared error: 0.3618847889693894
+Epoch: 2273
+Ave squared error: 0.30213848281744266
+Epoch: 2274
+Ave squared error: 0.3019672634089671
+Epoch: 2275
+Ave squared error: 0.276705167377985
+Epoch: 2276
+Ave squared error: 0.2837342598424666
+Epoch: 2277
+Ave squared error: 0.2714103333252265
+Epoch: 2278
+Ave squared error: 0.2841597469943827
+Epoch: 2279
+Ave squared error: 0.27737935957259585
+Epoch: 2280
+Ave squared error: 0.29580257306989355
+Epoch: 2281
+Ave squared error: 0.29215676818660985
+Epoch: 2282
+Ave squared error: 0.31335577217475535
+Epoch: 2283
+Ave squared error: 0.30956190192735666
+Epoch: 2284
+Ave squared error: 0.32407378103700285
+Epoch: 2285
+Ave squared error: 0.3207925946437957
+Epoch: 2286
+Ave squared error: 0.32455769073207025
+Epoch: 2287
+Ave squared error: 0.329556026132793
+Epoch: 2288
+Ave squared error: 0.33402874829145957
+Epoch: 2289
+Ave squared error: 0.3620701445718373
+Epoch: 2290
+Ave squared error: 0.39388389189813183
+Epoch: 2291
+Ave squared error: 0.4967039155579875
+Epoch: 2292
+Ave squared error: 0.5080504517538847
+Epoch: 2293
+Ave squared error: 0.6360189697787373
+Epoch: 2294
+Ave squared error: 0.7889579680094356
+Epoch: 2295
+Ave squared error: 0.3773306563664012
+Epoch: 2296
+Ave squared error: 0.37986244742856284
+Epoch: 2297
+Ave squared error: 0.32793820358411424
+Epoch: 2298
+Ave squared error: 0.318899606698286
+Epoch: 2299
+Ave squared error: 0.2846029394070953
+Epoch: 2300
+Ave squared error: 0.2858533327318947
+Epoch: 2301
+Ave squared error: 0.27874284465806326
+Epoch: 2302
+Ave squared error: 0.2831199336539897
+Epoch: 2303
+Ave squared error: 0.2822373585383936
+Epoch: 2304
+Ave squared error: 0.28607584291649807
+Epoch: 2305
+Ave squared error: 0.29252669989493113
+Epoch: 2306
+Ave squared error: 0.2952273861131536
+Epoch: 2307
+Ave squared error: 0.31596283902923933
+Epoch: 2308
+Ave squared error: 0.32192172208177694
+Epoch: 2309
+Ave squared error: 0.3623875849373412
+Epoch: 2310
+Ave squared error: 0.37092781163032257
+Epoch: 2311
+Ave squared error: 0.40642174617758453
+Epoch: 2312
+Ave squared error: 0.4164776684409416
+Epoch: 2313
+Ave squared error: 0.459910263077665
+Epoch: 2314
+Ave squared error: 0.48042268758021583
+Epoch: 2315
+Ave squared error: 0.5296921136092542
+Epoch: 2316
+Ave squared error: 0.40014683398800965
+Epoch: 2317
+Ave squared error: 0.35038831835009565
+Epoch: 2318
+Ave squared error: 0.3125014223313875
+Epoch: 2319
+Ave squared error: 0.30277833594803305
+Epoch: 2320
+Ave squared error: 0.29417480909866783
+Epoch: 2321
+Ave squared error: 0.30100329684669
+Epoch: 2322
+Ave squared error: 0.322204078205817
+Epoch: 2323
+Ave squared error: 0.3655285884935185
+Epoch: 2324
+Ave squared error: 0.4533692794441432
+Epoch: 2325
+Ave squared error: 0.4687787496758148
+Epoch: 2326
+Ave squared error: 0.43527609168510084
+Epoch: 2327
+Ave squared error: 0.36285074434330694
+Epoch: 2328
+Ave squared error: 0.28606078176566985
+Epoch: 2329
+Ave squared error: 0.2844047106166932
+Epoch: 2330
+Ave squared error: 0.2640465132189
+Epoch: 2331
+Ave squared error: 0.2773689557417665
+Epoch: 2332
+Ave squared error: 0.27203385618151643
+Epoch: 2333
+Ave squared error: 0.29370211212452335
+Epoch: 2334
+Ave squared error: 0.30039736064942424
+Epoch: 2335
+Ave squared error: 0.33184085166030747
+Epoch: 2336
+Ave squared error: 0.353339628453432
+Epoch: 2337
+Ave squared error: 0.38667761203644646
+Epoch: 2338
+Ave squared error: 0.4098585215348559
+Epoch: 2339
+Ave squared error: 0.4062680276312393
+Epoch: 2340
+Ave squared error: 0.39625998355267184
+Epoch: 2341
+Ave squared error: 0.34951015381509143
+Epoch: 2342
+Ave squared error: 0.31657887674012875
+Epoch: 2343
+Ave squared error: 0.28618681628259773
+Epoch: 2344
+Ave squared error: 0.26557199926085195
+Epoch: 2345
+Ave squared error: 0.2561415012165042
+Epoch: 2346
+Ave squared error: 0.247932165029117
+Epoch: 2347
+Ave squared error: 0.24515132675131027
+Epoch: 2348
+Ave squared error: 0.24318675186215752
+Epoch: 2349
+Ave squared error: 0.24302343672645338
+Epoch: 2350
+Ave squared error: 0.24713221308557082
+Epoch: 2351
+Ave squared error: 0.25440027376700614
+Epoch: 2352
+Ave squared error: 0.2702035176064027
+Epoch: 2353
+Ave squared error: 0.31258154101844404
+Epoch: 2354
+Ave squared error: 0.34471532111176595
+Epoch: 2355
+Ave squared error: 0.47327735651822794
+Epoch: 2356
+Ave squared error: 0.46987445918464776
+Epoch: 2357
+Ave squared error: 0.5373011260971774
+Epoch: 2358
+Ave squared error: 0.494677002672526
+Epoch: 2359
+Ave squared error: 0.36910223337466835
+Epoch: 2360
+Ave squared error: 0.39698975790947494
+Epoch: 2361
+Ave squared error: 0.35827075060478636
+Epoch: 2362
+Ave squared error: 0.3389808195486304
+Epoch: 2363
+Ave squared error: 0.30208040052356416
+Epoch: 2364
+Ave squared error: 0.29811475381396907
+Epoch: 2365
+Ave squared error: 0.3014994617191914
+Epoch: 2366
+Ave squared error: 0.30289222716941266
+Epoch: 2367
+Ave squared error: 0.3259767924571249
+Epoch: 2368
+Ave squared error: 0.33969413506874446
+Epoch: 2369
+Ave squared error: 0.3602770342851577
+Epoch: 2370
+Ave squared error: 0.3701852101454913
+Epoch: 2371
+Ave squared error: 0.35304380612257863
+Epoch: 2372
+Ave squared error: 0.33857754295677317
+Epoch: 2373
+Ave squared error: 0.32077090588175217
+Epoch: 2374
+Ave squared error: 0.3096828298670569
+Epoch: 2375
+Ave squared error: 0.3038856348921655
+Epoch: 2376
+Ave squared error: 0.3113220309286394
+Epoch: 2377
+Ave squared error: 0.3168541792027696
+Epoch: 2378
+Ave squared error: 0.36954894115428394
+Epoch: 2379
+Ave squared error: 0.38531301576771204
+Epoch: 2380
+Ave squared error: 0.5073025781268278
+Epoch: 2381
+Ave squared error: 0.40997874309813304
+Epoch: 2382
+Ave squared error: 0.4277065038378259
+Epoch: 2383
+Ave squared error: 0.32735063802354475
+Epoch: 2384
+Ave squared error: 0.3081230664842155
+Epoch: 2385
+Ave squared error: 0.2823213010496766
+Epoch: 2386
+Ave squared error: 0.3072079579513044
+Epoch: 2387
+Ave squared error: 0.31258875539556885
+Epoch: 2388
+Ave squared error: 0.35551970454380527
+Epoch: 2389
+Ave squared error: 0.3574552681251693
+Epoch: 2390
+Ave squared error: 0.3768795416618327
+Epoch: 2391
+Ave squared error: 0.33195946210707533
+Epoch: 2392
+Ave squared error: 0.3296156516373878
+Epoch: 2393
+Ave squared error: 0.30046440177343947
+Epoch: 2394
+Ave squared error: 0.3256378412660572
+Epoch: 2395
+Ave squared error: 0.36613066856639576
+Epoch: 2396
+Ave squared error: 0.3616573979644447
+Epoch: 2397
+Ave squared error: 0.4053817716465388
+Epoch: 2398
+Ave squared error: 0.34656922184438915
+Epoch: 2399
+Ave squared error: 0.37726078766536136
+Epoch: 2400
+Ave squared error: 0.33344502051129
+Epoch: 2401
+Ave squared error: 0.3706458233097473
+Epoch: 2402
+Ave squared error: 0.3094219582493587
+Epoch: 2403
+Ave squared error: 0.32632512520881796
+Epoch: 2404
+Ave squared error: 0.27235362831439053
+Epoch: 2405
+Ave squared error: 0.28023771802640673
+Epoch: 2406
+Ave squared error: 0.2578909751741002
+Epoch: 2407
+Ave squared error: 0.27124036896792025
+Epoch: 2408
+Ave squared error: 0.26695738544531455
+Epoch: 2409
+Ave squared error: 0.29362279008189834
+Epoch: 2410
+Ave squared error: 0.30931346030648527
+Epoch: 2411
+Ave squared error: 0.34988705456362756
+Epoch: 2412
+Ave squared error: 0.35165817711096237
+Epoch: 2413
+Ave squared error: 0.36206821396411953
+Epoch: 2414
+Ave squared error: 0.30583354231576493
+Epoch: 2415
+Ave squared error: 0.30721353910342947
+Epoch: 2416
+Ave squared error: 0.26619087536604735
+Epoch: 2417
+Ave squared error: 0.272537959331192
+Epoch: 2418
+Ave squared error: 0.24811178906065126
+Epoch: 2419
+Ave squared error: 0.25596891350610407
+Epoch: 2420
+Ave squared error: 0.24122758890377827
+Epoch: 2421
+Ave squared error: 0.25051316089777703
+Epoch: 2422
+Ave squared error: 0.24114061666280026
+Epoch: 2423
+Ave squared error: 0.25234597028750944
+Epoch: 2424
+Ave squared error: 0.24756862360667256
+Epoch: 2425
+Ave squared error: 0.26108665027947436
+Epoch: 2426
+Ave squared error: 0.262549104700855
+Epoch: 2427
+Ave squared error: 0.27679270262368777
+Epoch: 2428
+Ave squared error: 0.28699902675647027
+Epoch: 2429
+Ave squared error: 0.29485568047916694
+Epoch: 2430
+Ave squared error: 0.3122947798429959
+Epoch: 2431
+Ave squared error: 0.303848018631963
+Epoch: 2432
+Ave squared error: 0.3181560924143332
+Epoch: 2433
+Ave squared error: 0.3009493306307257
+Epoch: 2434
+Ave squared error: 0.3025867159102627
+Epoch: 2435
+Ave squared error: 0.2994906934641631
+Epoch: 2436
+Ave squared error: 0.289668391353406
+Epoch: 2437
+Ave squared error: 0.307127612544572
+Epoch: 2438
+Ave squared error: 0.28767055805912806
+Epoch: 2439
+Ave squared error: 0.31795425387076665
+Epoch: 2440
+Ave squared error: 0.288770885117243
+Epoch: 2441
+Ave squared error: 0.32177103122728634
+Epoch: 2442
+Ave squared error: 0.28494970720208745
+Epoch: 2443
+Ave squared error: 0.31230094566420624
+Epoch: 2444
+Ave squared error: 0.2736721788410078
+Epoch: 2445
+Ave squared error: 0.2915097329759513
+Epoch: 2446
+Ave squared error: 0.2594158836667347
+Epoch: 2447
+Ave squared error: 0.26988371487439866
+Epoch: 2448
+Ave squared error: 0.25032348081488676
+Epoch: 2449
+Ave squared error: 0.25928217587538716
+Epoch: 2450
+Ave squared error: 0.25606209941868885
+Epoch: 2451
+Ave squared error: 0.27045683125785047
+Epoch: 2452
+Ave squared error: 0.2920739839165188
+Epoch: 2453
+Ave squared error: 0.3195741819833377
+Epoch: 2454
+Ave squared error: 0.3528264175597709
+Epoch: 2455
+Ave squared error: 0.3691359419471642
+Epoch: 2456
+Ave squared error: 0.319647098577261
+Epoch: 2457
+Ave squared error: 0.3396134476964208
+Epoch: 2458
+Ave squared error: 0.280310432216806
+Epoch: 2459
+Ave squared error: 0.30995701081394345
+Epoch: 2460
+Ave squared error: 0.2634129816128144
+Epoch: 2461
+Ave squared error: 0.28653239132539243
+Epoch: 2462
+Ave squared error: 0.273854276854988
+Epoch: 2463
+Ave squared error: 0.2963564533769108
+Epoch: 2464
+Ave squared error: 0.32201607983732317
+Epoch: 2465
+Ave squared error: 0.34535720506445017
+Epoch: 2466
+Ave squared error: 0.39896108956902643
+Epoch: 2467
+Ave squared error: 0.4404482366517537
+Epoch: 2468
+Ave squared error: 0.5221648728139335
+Epoch: 2469
+Ave squared error: 0.5960552210126681
+Epoch: 2470
+Ave squared error: 0.46112423507328154
+Epoch: 2471
+Ave squared error: 0.40564918285894186
+Epoch: 2472
+Ave squared error: 0.24530837235909286
+Epoch: 2473
+Ave squared error: 0.2241843318514254
+Epoch: 2474
+Ave squared error: 0.21592965810796366
+Epoch: 2475
+Ave squared error: 0.214738184263009
+Epoch: 2476
+Ave squared error: 0.21261071937940318
+Epoch: 2477
+Ave squared error: 0.2135704189367926
+Epoch: 2478
+Ave squared error: 0.21254593464402186
+Epoch: 2479
+Ave squared error: 0.21752721408233391
+Epoch: 2480
+Ave squared error: 0.21910075476889831
+Epoch: 2481
+Ave squared error: 0.23388840014388865
+Epoch: 2482
+Ave squared error: 0.24587829320388513
+Epoch: 2483
+Ave squared error: 0.28402486384450754
+Epoch: 2484
+Ave squared error: 0.32895324664575265
+Epoch: 2485
+Ave squared error: 0.39704649850283064
+Epoch: 2486
+Ave squared error: 0.4571549721160778
+Epoch: 2487
+Ave squared error: 0.40557743571363014
+Epoch: 2488
+Ave squared error: 0.3415676252665671
+Epoch: 2489
+Ave squared error: 0.27811190141176484
+Epoch: 2490
+Ave squared error: 0.24844560188431555
+Epoch: 2491
+Ave squared error: 0.24015116381830337
+Epoch: 2492
+Ave squared error: 0.23548442595469593
+Epoch: 2493
+Ave squared error: 0.24066736564341334
+Epoch: 2494
+Ave squared error: 0.2499496482433455
+Epoch: 2495
+Ave squared error: 0.267273988926871
+Epoch: 2496
+Ave squared error: 0.2987883069062508
+Epoch: 2497
+Ave squared error: 0.35032416044356846
+Epoch: 2498
+Ave squared error: 0.41881511648016523
+Epoch: 2499
+Ave squared error: 0.4961305700472535
+Epoch: 2500
+Ave squared error: 0.45725143375292887
+Epoch: 2501
+Ave squared error: 0.47892932897004925
+Epoch: 2502
+Ave squared error: 0.4107299505749043
+Epoch: 2503
+Ave squared error: 0.36797272207210485
+Epoch: 2504
+Ave squared error: 0.34812197372335174
+Epoch: 2505
+Ave squared error: 0.3704852188391225
+Epoch: 2506
+Ave squared error: 0.3051729575369754
+Epoch: 2507
+Ave squared error: 0.30721569271581384
+Epoch: 2508
+Ave squared error: 0.28562604569000416
+Epoch: 2509
+Ave squared error: 0.28150807755734863
+Epoch: 2510
+Ave squared error: 0.2656769378315503
+Epoch: 2511
+Ave squared error: 0.2599748093798693
+Epoch: 2512
+Ave squared error: 0.2533853519138083
+Epoch: 2513
+Ave squared error: 0.25853920669149966
+Epoch: 2514
+Ave squared error: 0.2756305254408031
+Epoch: 2515
+Ave squared error: 0.2953510345677005
+Epoch: 2516
+Ave squared error: 0.3526613462744668
+Epoch: 2517
+Ave squared error: 0.3670885682149091
+Epoch: 2518
+Ave squared error: 0.43919736749037697
+Epoch: 2519
+Ave squared error: 0.3638925807100372
+Epoch: 2520
+Ave squared error: 0.4007120105568908
+Epoch: 2521
+Ave squared error: 0.26807769761516537
+Epoch: 2522
+Ave squared error: 0.2639931035900094
+Epoch: 2523
+Ave squared error: 0.2270939137080798
+Epoch: 2524
+Ave squared error: 0.22795292297719483
+Epoch: 2525
+Ave squared error: 0.21567899319709635
+Epoch: 2526
+Ave squared error: 0.21871148953556296
+Epoch: 2527
+Ave squared error: 0.21283046075248557
+Epoch: 2528
+Ave squared error: 0.2172005795137095
+Epoch: 2529
+Ave squared error: 0.21508483599923992
+Epoch: 2530
+Ave squared error: 0.22106438289105268
+Epoch: 2531
+Ave squared error: 0.22337826783576412
+Epoch: 2532
+Ave squared error: 0.23154387635779844
+Epoch: 2533
+Ave squared error: 0.2403868267710688
+Epoch: 2534
+Ave squared error: 0.25074827899226143
+Epoch: 2535
+Ave squared error: 0.2679852923917441
+Epoch: 2536
+Ave squared error: 0.2767844591977878
+Epoch: 2537
+Ave squared error: 0.2987199755948329
+Epoch: 2538
+Ave squared error: 0.29612577087628505
+Epoch: 2539
+Ave squared error: 0.3092028562364927
+Epoch: 2540
+Ave squared error: 0.2950561042264257
+Epoch: 2541
+Ave squared error: 0.2912630901018613
+Epoch: 2542
+Ave squared error: 0.2836694308392473
+Epoch: 2543
+Ave squared error: 0.2679914095247945
+Epoch: 2544
+Ave squared error: 0.2733427394041657
+Epoch: 2545
+Ave squared error: 0.2507973667176401
+Epoch: 2546
+Ave squared error: 0.2665028822616748
+Epoch: 2547
+Ave squared error: 0.24331189179398105
+Epoch: 2548
+Ave squared error: 0.2732343362866969
+Epoch: 2549
+Ave squared error: 0.26096140189578043
+Epoch: 2550
+Ave squared error: 0.3120560999725628
+Epoch: 2551
+Ave squared error: 0.33194278500495694
+Epoch: 2552
+Ave squared error: 0.3571349607994667
+Epoch: 2553
+Ave squared error: 0.392187328772632
+Epoch: 2554
+Ave squared error: 0.3278192913642929
+Epoch: 2555
+Ave squared error: 0.3233832983769799
+Epoch: 2556
+Ave squared error: 0.3275703941088556
+Epoch: 2557
+Ave squared error: 0.2971933903814364
+Epoch: 2558
+Ave squared error: 0.36035960098055914
+Epoch: 2559
+Ave squared error: 0.3216772469540403
+Epoch: 2560
+Ave squared error: 0.41560487287042625
+Epoch: 2561
+Ave squared error: 0.3576476446667568
+Epoch: 2562
+Ave squared error: 0.4712736591859455
+Epoch: 2563
+Ave squared error: 0.2901623715123516
+Epoch: 2564
+Ave squared error: 0.29255210599673653
+Epoch: 2565
+Ave squared error: 0.21989194221478722
+Epoch: 2566
+Ave squared error: 0.22419822220931418
+Epoch: 2567
+Ave squared error: 0.2011113142254579
+Epoch: 2568
+Ave squared error: 0.2075871404133567
+Epoch: 2569
+Ave squared error: 0.19722913383154878
+Epoch: 2570
+Ave squared error: 0.2058434696441255
+Epoch: 2571
+Ave squared error: 0.19974105500421174
+Epoch: 2572
+Ave squared error: 0.21243657978186858
+Epoch: 2573
+Ave squared error: 0.2114164483670772
+Epoch: 2574
+Ave squared error: 0.2321128339977389
+Epoch: 2575
+Ave squared error: 0.24430047108811317
+Epoch: 2576
+Ave squared error: 0.2777880183761183
+Epoch: 2577
+Ave squared error: 0.31503153515229476
+Epoch: 2578
+Ave squared error: 0.3361599153109274
+Epoch: 2579
+Ave squared error: 0.35113382914912955
+Epoch: 2580
+Ave squared error: 0.3125116696745116
+Epoch: 2581
+Ave squared error: 0.273017086220241
+Epoch: 2582
+Ave squared error: 0.26060682200591917
+Epoch: 2583
+Ave squared error: 0.22460543488321388
+Epoch: 2584
+Ave squared error: 0.22633334973634103
+Epoch: 2585
+Ave squared error: 0.20681225291198993
+Epoch: 2586
+Ave squared error: 0.21195945100759717
+Epoch: 2587
+Ave squared error: 0.20235014093356254
+Epoch: 2588
+Ave squared error: 0.20819755345141647
+Epoch: 2589
+Ave squared error: 0.20522662994976074
+Epoch: 2590
+Ave squared error: 0.2114195533355452
+Epoch: 2591
+Ave squared error: 0.21579721240151864
+Epoch: 2592
+Ave squared error: 0.22294221058507369
+Epoch: 2593
+Ave squared error: 0.2378482526410803
+Epoch: 2594
+Ave squared error: 0.24768278025342438
+Epoch: 2595
+Ave squared error: 0.2745929431998776
+Epoch: 2596
+Ave squared error: 0.29073765774653854
+Epoch: 2597
+Ave squared error: 0.3200216067951725
+Epoch: 2598
+Ave squared error: 0.3483245965521034
+Epoch: 2599
+Ave squared error: 0.3620107889872067
+Epoch: 2600
+Ave squared error: 0.3981555287979963
+Epoch: 2601
+Ave squared error: 0.3962721541739179
+Epoch: 2602
+Ave squared error: 0.410871777219381
+Epoch: 2603
+Ave squared error: 0.40688877560384223
+Epoch: 2604
+Ave squared error: 0.39712930422825315
+Epoch: 2605
+Ave squared error: 0.4013669618134478
+Epoch: 2606
+Ave squared error: 0.45056206697897
+Epoch: 2607
+Ave squared error: 0.4234366895255965
+Epoch: 2608
+Ave squared error: 0.34542755677507275
+Epoch: 2609
+Ave squared error: 0.335432847470503
+Epoch: 2610
+Ave squared error: 0.27727592544569435
+Epoch: 2611
+Ave squared error: 0.28225164243863016
+Epoch: 2612
+Ave squared error: 0.2505452535069168
+Epoch: 2613
+Ave squared error: 0.23416899764763596
+Epoch: 2614
+Ave squared error: 0.2130135215320328
+Epoch: 2615
+Ave squared error: 0.19910882166418556
+Epoch: 2616
+Ave squared error: 0.19888867779782635
+Epoch: 2617
+Ave squared error: 0.19106486327161012
+Epoch: 2618
+Ave squared error: 0.20789929931625778
+Epoch: 2619
+Ave squared error: 0.20903372037534063
+Epoch: 2620
+Ave squared error: 0.26634834837708976
+Epoch: 2621
+Ave squared error: 0.3062958791556433
+Epoch: 2622
+Ave squared error: 0.4666388394930506
+Epoch: 2623
+Ave squared error: 0.4939868810049271
+Epoch: 2624
+Ave squared error: 0.5425659794809572
+Epoch: 2625
+Ave squared error: 0.2854579783419949
+Epoch: 2626
+Ave squared error: 0.23401511792056515
+Epoch: 2627
+Ave squared error: 0.2121680150332335
+Epoch: 2628
+Ave squared error: 0.20187091523209946
+Epoch: 2629
+Ave squared error: 0.20328262375541534
+Epoch: 2630
+Ave squared error: 0.20017813138527765
+Epoch: 2631
+Ave squared error: 0.2077690452175264
+Epoch: 2632
+Ave squared error: 0.20733811368716917
+Epoch: 2633
+Ave squared error: 0.21877959559439492
+Epoch: 2634
+Ave squared error: 0.22039343061196748
+Epoch: 2635
+Ave squared error: 0.23333048546456409
+Epoch: 2636
+Ave squared error: 0.23554951700078558
+Epoch: 2637
+Ave squared error: 0.24579684047885975
+Epoch: 2638
+Ave squared error: 0.24603945416743736
+Epoch: 2639
+Ave squared error: 0.249918665327361
+Epoch: 2640
+Ave squared error: 0.24623809818156123
+Epoch: 2641
+Ave squared error: 0.24452758307970918
+Epoch: 2642
+Ave squared error: 0.23763662246479894
+Epoch: 2643
+Ave squared error: 0.23494078091441653
+Epoch: 2644
+Ave squared error: 0.22710293095626513
+Epoch: 2645
+Ave squared error: 0.22718214687574348
+Epoch: 2646
+Ave squared error: 0.21956404686618064
+Epoch: 2647
+Ave squared error: 0.22403351031602026
+Epoch: 2648
+Ave squared error: 0.2163576201512647
+Epoch: 2649
+Ave squared error: 0.2262524383761483
+Epoch: 2650
+Ave squared error: 0.21769077326281994
+Epoch: 2651
+Ave squared error: 0.23471377304466315
+Epoch: 2652
+Ave squared error: 0.22447722953979116
+Epoch: 2653
+Ave squared error: 0.25164832070799775
+Epoch: 2654
+Ave squared error: 0.24044326634427085
+Epoch: 2655
+Ave squared error: 0.28288685110172834
+Epoch: 2656
+Ave squared error: 0.28065266142474915
+Epoch: 2657
+Ave squared error: 0.3435659001791655
+Epoch: 2658
+Ave squared error: 0.37869737892004474
+Epoch: 2659
+Ave squared error: 0.3819827945151946
+Epoch: 2660
+Ave squared error: 0.42778297919362757
+Epoch: 2661
+Ave squared error: 0.29338738414211435
+Epoch: 2662
+Ave squared error: 0.26027255204929917
+Epoch: 2663
+Ave squared error: 0.2711784202612751
+Epoch: 2664
+Ave squared error: 0.25080281405918153
+Epoch: 2665
+Ave squared error: 0.2850324470320149
+Epoch: 2666
+Ave squared error: 0.2594892572794541
+Epoch: 2667
+Ave squared error: 0.2953083727721456
+Epoch: 2668
+Ave squared error: 0.2588400817923142
+Epoch: 2669
+Ave squared error: 0.28135930468051223
+Epoch: 2670
+Ave squared error: 0.23990291234389077
+Epoch: 2671
+Ave squared error: 0.24430160065045933
+Epoch: 2672
+Ave squared error: 0.2140783889769617
+Epoch: 2673
+Ave squared error: 0.21227356889289595
+Epoch: 2674
+Ave squared error: 0.1970325493893517
+Epoch: 2675
+Ave squared error: 0.1966612638435929
+Epoch: 2676
+Ave squared error: 0.18951781050355304
+Epoch: 2677
+Ave squared error: 0.19177316647331377
+Epoch: 2678
+Ave squared error: 0.18820405643184399
+Epoch: 2679
+Ave squared error: 0.19349329601550366
+Epoch: 2680
+Ave squared error: 0.19239566308645328
+Epoch: 2681
+Ave squared error: 0.20175819407644632
+Epoch: 2682
+Ave squared error: 0.20452894075588077
+Epoch: 2683
+Ave squared error: 0.2199212109060455
+Epoch: 2684
+Ave squared error: 0.230994355880408
+Epoch: 2685
+Ave squared error: 0.25510081640363186
+Epoch: 2686
+Ave squared error: 0.28178922826956876
+Epoch: 2687
+Ave squared error: 0.3100883670673618
+Epoch: 2688
+Ave squared error: 0.33413932410908986
+Epoch: 2689
+Ave squared error: 0.32876693952151864
+Epoch: 2690
+Ave squared error: 0.2845004112429931
+Epoch: 2691
+Ave squared error: 0.277367460961038
+Epoch: 2692
+Ave squared error: 0.21908412935660096
+Epoch: 2693
+Ave squared error: 0.2232361429092676
+Epoch: 2694
+Ave squared error: 0.1888359066157593
+Epoch: 2695
+Ave squared error: 0.19633797690426827
+Epoch: 2696
+Ave squared error: 0.1773116429603731
+Epoch: 2697
+Ave squared error: 0.18564316793503585
+Epoch: 2698
+Ave squared error: 0.1734735577333974
+Epoch: 2699
+Ave squared error: 0.18199097638021353
+Epoch: 2700
+Ave squared error: 0.17289830679923235
+Epoch: 2701
+Ave squared error: 0.182324879718222
+Epoch: 2702
+Ave squared error: 0.17491468332468918
+Epoch: 2703
+Ave squared error: 0.18683471410592925
+Epoch: 2704
+Ave squared error: 0.1811213563742058
+Epoch: 2705
+Ave squared error: 0.198342212174616
+Epoch: 2706
+Ave squared error: 0.19601558447869724
+Epoch: 2707
+Ave squared error: 0.22330882623557485
+Epoch: 2708
+Ave squared error: 0.2282530510097929
+Epoch: 2709
+Ave squared error: 0.27108061519537596
+Epoch: 2710
+Ave squared error: 0.2869282930111785
+Epoch: 2711
+Ave squared error: 0.33735898484913496
+Epoch: 2712
+Ave squared error: 0.35433594799919793
+Epoch: 2713
+Ave squared error: 0.3700261914998572
+Epoch: 2714
+Ave squared error: 0.3757566878770315
+Epoch: 2715
+Ave squared error: 0.33477597154605876
+Epoch: 2716
+Ave squared error: 0.3108797486997167
+Epoch: 2717
+Ave squared error: 0.25760527251307197
+Epoch: 2718
+Ave squared error: 0.2231119687871693
+Epoch: 2719
+Ave squared error: 0.21327062904979607
+Epoch: 2720
+Ave squared error: 0.19556630402044548
+Epoch: 2721
+Ave squared error: 0.20489121570374555
+Epoch: 2722
+Ave squared error: 0.19087767012383944
+Epoch: 2723
+Ave squared error: 0.2081390240182966
+Epoch: 2724
+Ave squared error: 0.19566616063628747
+Epoch: 2725
+Ave squared error: 0.21917534098564398
+Epoch: 2726
+Ave squared error: 0.21130032490595574
+Epoch: 2727
+Ave squared error: 0.24520086619408896
+Epoch: 2728
+Ave squared error: 0.2531240437718968
+Epoch: 2729
+Ave squared error: 0.3071553598273677
+Epoch: 2730
+Ave squared error: 0.3471207516835711
+Epoch: 2731
+Ave squared error: 0.3853355655699911
+Epoch: 2732
+Ave squared error: 0.4051536348037537
+Epoch: 2733
+Ave squared error: 0.33248196640970973
+Epoch: 2734
+Ave squared error: 0.2763503957626452
+Epoch: 2735
+Ave squared error: 0.292135931568827
+Epoch: 2736
+Ave squared error: 0.2598007412427539
+Epoch: 2737
+Ave squared error: 0.30733171403704485
+Epoch: 2738
+Ave squared error: 0.2721840117241918
+Epoch: 2739
+Ave squared error: 0.32248266157489636
+Epoch: 2740
+Ave squared error: 0.26599690574023716
+Epoch: 2741
+Ave squared error: 0.293226904669106
+Epoch: 2742
+Ave squared error: 0.22499977347277023
+Epoch: 2743
+Ave squared error: 0.22692484852703418
+Epoch: 2744
+Ave squared error: 0.190623171581964
+Epoch: 2745
+Ave squared error: 0.19071444988794317
+Epoch: 2746
+Ave squared error: 0.17715665425816088
+Epoch: 2747
+Ave squared error: 0.17821016481189286
+Epoch: 2748
+Ave squared error: 0.17225290631575527
+Epoch: 2749
+Ave squared error: 0.1741097775728787
+Epoch: 2750
+Ave squared error: 0.17069406843521923
+Epoch: 2751
+Ave squared error: 0.17344441957742657
+Epoch: 2752
+Ave squared error: 0.1712849717533241
+Epoch: 2753
+Ave squared error: 0.1752076348068442
+Epoch: 2754
+Ave squared error: 0.1743038275823689
+Epoch: 2755
+Ave squared error: 0.17989883302195203
+Epoch: 2756
+Ave squared error: 0.1811679247780423
+Epoch: 2757
+Ave squared error: 0.18923139222218227
+Epoch: 2758
+Ave squared error: 0.19497239771766892
+Epoch: 2759
+Ave squared error: 0.20666867150796825
+Epoch: 2760
+Ave squared error: 0.22168786846528057
+Epoch: 2761
+Ave squared error: 0.23833504325662758
+Epoch: 2762
+Ave squared error: 0.27008466632530637
+Epoch: 2763
+Ave squared error: 0.2880693080138219
+Epoch: 2764
+Ave squared error: 0.3248313184966368
+Epoch: 2765
+Ave squared error: 0.31649972986371283
+Epoch: 2766
+Ave squared error: 0.2891892182611045
+Epoch: 2767
+Ave squared error: 0.2791602588334537
+Epoch: 2768
+Ave squared error: 0.2181626208925885
+Epoch: 2769
+Ave squared error: 0.22128835499135252
+Epoch: 2770
+Ave squared error: 0.18337126142350935
+Epoch: 2771
+Ave squared error: 0.1897685863840974
+Epoch: 2772
+Ave squared error: 0.17192096346641822
+Epoch: 2773
+Ave squared error: 0.17889952565851255
+Epoch: 2774
+Ave squared error: 0.17121398038046456
+Epoch: 2775
+Ave squared error: 0.1776481321399623
+Epoch: 2776
+Ave squared error: 0.17656871697187695
+Epoch: 2777
+Ave squared error: 0.18342007683822728
+Epoch: 2778
+Ave squared error: 0.19054757129522712
+Epoch: 2779
+Ave squared error: 0.20172803926878818
+Epoch: 2780
+Ave squared error: 0.22549209244538557
+Epoch: 2781
+Ave squared error: 0.25557274793475176
+Epoch: 2782
+Ave squared error: 0.32197896427501355
+Epoch: 2783
+Ave squared error: 0.4189908953199012
+Epoch: 2784
+Ave squared error: 0.485088832555623
+Epoch: 2785
+Ave squared error: 0.5844149399415988
+Epoch: 2786
+Ave squared error: 0.36712792724835414
+Epoch: 2787
+Ave squared error: 0.37737692085107144
+Epoch: 2788
+Ave squared error: 0.3028154821133658
+Epoch: 2789
+Ave squared error: 0.3466038948279923
+Epoch: 2790
+Ave squared error: 0.2837428790649562
+Epoch: 2791
+Ave squared error: 0.3323940195659211
+Epoch: 2792
+Ave squared error: 0.30658418222501577
+Epoch: 2793
+Ave squared error: 0.2865258609690407
+Epoch: 2794
+Ave squared error: 0.2948130211182938
+Epoch: 2795
+Ave squared error: 0.23471653179373697
+Epoch: 2796
+Ave squared error: 0.23202535745079178
+Epoch: 2797
+Ave squared error: 0.20371797713422568
+Epoch: 2798
+Ave squared error: 0.19536056648029246
+Epoch: 2799
+Ave squared error: 0.187882956099819
+Epoch: 2800
+Ave squared error: 0.1793897744181935
+Epoch: 2801
+Ave squared error: 0.18012253158727864
+Epoch: 2802
+Ave squared error: 0.17216147003786925
+Epoch: 2803
+Ave squared error: 0.1769446381768358
+Epoch: 2804
+Ave squared error: 0.16918386198203045
+Epoch: 2805
+Ave squared error: 0.17685046977667224
+Epoch: 2806
+Ave squared error: 0.16883563924803308
+Epoch: 2807
+Ave squared error: 0.17934438114906634
+Epoch: 2808
+Ave squared error: 0.17070443934856686
+Epoch: 2809
+Ave squared error: 0.1845430647765789
+Epoch: 2810
+Ave squared error: 0.17512820938378892
+Epoch: 2811
+Ave squared error: 0.19304956934657347
+Epoch: 2812
+Ave squared error: 0.18320845020383636
+Epoch: 2813
+Ave squared error: 0.20598428964191737
+Epoch: 2814
+Ave squared error: 0.19689330055425355
+Epoch: 2815
+Ave squared error: 0.22479828199191568
+Epoch: 2816
+Ave squared error: 0.21803355837013846
+Epoch: 2817
+Ave squared error: 0.24957862090764785
+Epoch: 2818
+Ave squared error: 0.24440559706329867
+Epoch: 2819
+Ave squared error: 0.27344250651698504
+Epoch: 2820
+Ave squared error: 0.26316796961063604
+Epoch: 2821
+Ave squared error: 0.2782460401803113
+Epoch: 2822
+Ave squared error: 0.2551028927455093
+Epoch: 2823
+Ave squared error: 0.2543869940757513
+Epoch: 2824
+Ave squared error: 0.22590975615763842
+Epoch: 2825
+Ave squared error: 0.22511703910127442
+Epoch: 2826
+Ave squared error: 0.20314042996459716
+Epoch: 2827
+Ave squared error: 0.2124590479717041
+Epoch: 2828
+Ave squared error: 0.1953743611403027
+Epoch: 2829
+Ave squared error: 0.21907548442200325
+Epoch: 2830
+Ave squared error: 0.20725417331720372
+Epoch: 2831
+Ave squared error: 0.25141626050384075
+Epoch: 2832
+Ave squared error: 0.24938540809762977
+Epoch: 2833
+Ave squared error: 0.3101592075153131
+Epoch: 2834
+Ave squared error: 0.30510926313291187
+Epoch: 2835
+Ave squared error: 0.34119321819083337
+Epoch: 2836
+Ave squared error: 0.3342160862510134
+Epoch: 2837
+Ave squared error: 0.29750152773809585
+Epoch: 2838
+Ave squared error: 0.27461738024811927
+Epoch: 2839
+Ave squared error: 0.22644427957750746
+Epoch: 2840
+Ave squared error: 0.20562457123232197
+Epoch: 2841
+Ave squared error: 0.194654084746173
+Epoch: 2842
+Ave squared error: 0.18452298805319275
+Epoch: 2843
+Ave squared error: 0.18181426275962925
+Epoch: 2844
+Ave squared error: 0.17777690265976978
+Epoch: 2845
+Ave squared error: 0.1769686538215257
+Epoch: 2846
+Ave squared error: 0.17608758932307556
+Epoch: 2847
+Ave squared error: 0.17641202618817095
+Epoch: 2848
+Ave squared error: 0.17710632250853628
+Epoch: 2849
+Ave squared error: 0.1782884410393187
+Epoch: 2850
+Ave squared error: 0.17957998645680265
+Epoch: 2851
+Ave squared error: 0.18120311689224905
+Epoch: 2852
+Ave squared error: 0.18233483354374574
+Epoch: 2853
+Ave squared error: 0.18379201211177296
+Epoch: 2854
+Ave squared error: 0.18424599302877945
+Epoch: 2855
+Ave squared error: 0.18497746392269884
+Epoch: 2856
+Ave squared error: 0.1847107924485518
+Epoch: 2857
+Ave squared error: 0.1845496835410637
+Epoch: 2858
+Ave squared error: 0.18409752004390253
+Epoch: 2859
+Ave squared error: 0.18338057164277807
+Epoch: 2860
+Ave squared error: 0.18367312619954015
+Epoch: 2861
+Ave squared error: 0.18301942785320652
+Epoch: 2862
+Ave squared error: 0.18529342149714487
+Epoch: 2863
+Ave squared error: 0.18533560916580538
+Epoch: 2864
+Ave squared error: 0.19157103727660862
+Epoch: 2865
+Ave squared error: 0.19278391803586403
+Epoch: 2866
+Ave squared error: 0.20678167405809803
+Epoch: 2867
+Ave squared error: 0.20941586384370955
+Epoch: 2868
+Ave squared error: 0.2389710374033537
+Epoch: 2869
+Ave squared error: 0.24348482036507885
+Epoch: 2870
+Ave squared error: 0.30235642039654215
+Epoch: 2871
+Ave squared error: 0.29657503586544415
+Epoch: 2872
+Ave squared error: 0.3491183382478949
+Epoch: 2873
+Ave squared error: 0.2866058343828893
+Epoch: 2874
+Ave squared error: 0.24387538103123038
+Epoch: 2875
+Ave squared error: 0.23560995239443544
+Epoch: 2876
+Ave squared error: 0.19175034915413103
+Epoch: 2877
+Ave squared error: 0.1976855733388353
+Epoch: 2878
+Ave squared error: 0.16970765029265633
+Epoch: 2879
+Ave squared error: 0.17631858514699478
+Epoch: 2880
+Ave squared error: 0.15954353599134505
+Epoch: 2881
+Ave squared error: 0.16554334412713329
+Epoch: 2882
+Ave squared error: 0.1544648463554351
+Epoch: 2883
+Ave squared error: 0.15964743895160946
+Epoch: 2884
+Ave squared error: 0.15161319261826814
+Epoch: 2885
+Ave squared error: 0.15608408023459763
+Epoch: 2886
+Ave squared error: 0.14996436150326048
+Epoch: 2887
+Ave squared error: 0.15386677882640468
+Epoch: 2888
+Ave squared error: 0.1492417768602707
+Epoch: 2889
+Ave squared error: 0.15269795609601483
+Epoch: 2890
+Ave squared error: 0.1496096024723932
+Epoch: 2891
+Ave squared error: 0.15272263394355437
+Epoch: 2892
+Ave squared error: 0.15173964827888925
+Epoch: 2893
+Ave squared error: 0.15461826980700233
+Epoch: 2894
+Ave squared error: 0.1571650219362226
+Epoch: 2895
+Ave squared error: 0.15998418543554463
+Epoch: 2896
+Ave squared error: 0.16891304485038927
+Epoch: 2897
+Ave squared error: 0.17204512705251326
+Epoch: 2898
+Ave squared error: 0.19202342106317433
+Epoch: 2899
+Ave squared error: 0.19579567835787903
+Epoch: 2900
+Ave squared error: 0.23179592190023668
+Epoch: 2901
+Ave squared error: 0.2367593109228403
+Epoch: 2902
+Ave squared error: 0.28902023782520775
+Epoch: 2903
+Ave squared error: 0.3063552585180119
+Epoch: 2904
+Ave squared error: 0.36443206488942204
+Epoch: 2905
+Ave squared error: 0.43751723644185647
+Epoch: 2906
+Ave squared error: 0.46267612134527086
+Epoch: 2907
+Ave squared error: 0.6006012456492653
+Epoch: 2908
+Ave squared error: 0.5014346792853068
+Epoch: 2909
+Ave squared error: 0.7152861602077076
+Epoch: 2910
+Ave squared error: 0.42875147737772384
+Epoch: 2911
+Ave squared error: 0.5613434664462318
+Epoch: 2912
+Ave squared error: 0.5908218816018203
+Epoch: 2913
+Ave squared error: 0.4278966196103759
+Epoch: 2914
+Ave squared error: 0.673821514934911
+Epoch: 2915
+Ave squared error: 0.4389740860879074
+Epoch: 2916
+Ave squared error: 0.3090894918755856
+Epoch: 2917
+Ave squared error: 0.2580307268671547
+Epoch: 2918
+Ave squared error: 0.1989808775757859
+Epoch: 2919
+Ave squared error: 0.19892522029707574
+Epoch: 2920
+Ave squared error: 0.17412792163416826
+Epoch: 2921
+Ave squared error: 0.17994350385559238
+Epoch: 2922
+Ave squared error: 0.1659133196966629
+Epoch: 2923
+Ave squared error: 0.17206611075461692
+Epoch: 2924
+Ave squared error: 0.16187905937515806
+Epoch: 2925
+Ave squared error: 0.1687141379738294
+Epoch: 2926
+Ave squared error: 0.1602966795187046
+Epoch: 2927
+Ave squared error: 0.1682545239580713
+Epoch: 2928
+Ave squared error: 0.1607322827189707
+Epoch: 2929
+Ave squared error: 0.17016555120926471
+Epoch: 2930
+Ave squared error: 0.16306766684691254
+Epoch: 2931
+Ave squared error: 0.1742649822398514
+Epoch: 2932
+Ave squared error: 0.1673950482561776
+Epoch: 2933
+Ave squared error: 0.18048310396100825
+Epoch: 2934
+Ave squared error: 0.17401255959748707
+Epoch: 2935
+Ave squared error: 0.18875552349989588
+Epoch: 2936
+Ave squared error: 0.1834292418573507
+Epoch: 2937
+Ave squared error: 0.19889805951333994
+Epoch: 2938
+Ave squared error: 0.19623886228361848
+Epoch: 2939
+Ave squared error: 0.2103239845799345
+Epoch: 2940
+Ave squared error: 0.21258650891863243
+Epoch: 2941
+Ave squared error: 0.22160969654593624
+Epoch: 2942
+Ave squared error: 0.23064902366265283
+Epoch: 2943
+Ave squared error: 0.22988500991175484
+Epoch: 2944
+Ave squared error: 0.24337281015700585
+Epoch: 2945
+Ave squared error: 0.22955550277897613
+Epoch: 2946
+Ave squared error: 0.23688238283005236
+Epoch: 2947
+Ave squared error: 0.21380179032353847
+Epoch: 2948
+Ave squared error: 0.20659700987603544
+Epoch: 2949
+Ave squared error: 0.18788808460304987
+Epoch: 2950
+Ave squared error: 0.17448407791666154
+Epoch: 2951
+Ave squared error: 0.16678500781734001
+Epoch: 2952
+Ave squared error: 0.1557634786471957
+Epoch: 2953
+Ave squared error: 0.1549540590954776
+Epoch: 2954
+Ave squared error: 0.14750780226127366
+Epoch: 2955
+Ave squared error: 0.14908980409800993
+Epoch: 2956
+Ave squared error: 0.1441424444727075
+Epoch: 2957
+Ave squared error: 0.14629055111042766
+Epoch: 2958
+Ave squared error: 0.1429065009823247
+Epoch: 2959
+Ave squared error: 0.14523034282540964
+Epoch: 2960
+Ave squared error: 0.14291042331385884
+Epoch: 2961
+Ave squared error: 0.1454839533656919
+Epoch: 2962
+Ave squared error: 0.14406826157426836
+Epoch: 2963
+Ave squared error: 0.14709953016181715
+Epoch: 2964
+Ave squared error: 0.14671940414071033
+Epoch: 2965
+Ave squared error: 0.1504323108481686
+Epoch: 2966
+Ave squared error: 0.15153231574042528
+Epoch: 2967
+Ave squared error: 0.15602954560328944
+Epoch: 2968
+Ave squared error: 0.15936489313748034
+Epoch: 2969
+Ave squared error: 0.16440184643539912
+Epoch: 2970
+Ave squared error: 0.17081340570532494
+Epoch: 2971
+Ave squared error: 0.1757471509114538
+Epoch: 2972
+Ave squared error: 0.18561179972834638
+Epoch: 2973
+Ave squared error: 0.1900709319199731
+Epoch: 2974
+Ave squared error: 0.20277306095867909
+Epoch: 2975
+Ave squared error: 0.20761553250846815
+Epoch: 2976
+Ave squared error: 0.22118570310130067
+Epoch: 2977
+Ave squared error: 0.22846109440121612
+Epoch: 2978
+Ave squared error: 0.23821494758971073
+Epoch: 2979
+Ave squared error: 0.25029323759127303
+Epoch: 2980
+Ave squared error: 0.24616412207225677
+Epoch: 2981
+Ave squared error: 0.26549141317640085
+Epoch: 2982
+Ave squared error: 0.2352222800468165
+Epoch: 2983
+Ave squared error: 0.25533750668284566
+Epoch: 2984
+Ave squared error: 0.2033931160715934
+Epoch: 2985
+Ave squared error: 0.21480464778134617
+Epoch: 2986
+Ave squared error: 0.17074020204888551
+Epoch: 2987
+Ave squared error: 0.178304996158686
+Epoch: 2988
+Size of training set: 500 | 50 per class
+Total predictions correct: 34245 out of 42000
+Training time: 1.75 minutes
